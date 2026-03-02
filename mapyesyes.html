@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<title>htmly copy</title>
+	<title>mapyesyes</title>
 	
 	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
@@ -28,91 +28,12 @@
 	
 </head>
 <body>
-<div id="map" style="width: 600px;height:400px;"></div>
-<button onclick="switchDirect();">切換</button>
-<div id="routeMenu"><div>
-<script>
-	const map = L.map('map').setView([25.064,121.530], 14);
+	<div id="map" style="width: 600px;height:400px;"></div>
 
-	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-	}).addTo(map);
-
-	//L.marker([25.065033,121.565572]).addTo(map)
-	//	.bindPopup('<b>莊敬里</b><br />Zhuangjing Village')//.openPopup();
-	const colorChart=["red","blue"];
-	routeList=["234","南環幹線","205","618","民權幹線"];
-	routeMenu=document.getElementById("routeMenu");
-	let a=1  
-	currentLine=null;
-	currentStops=[];
-	currentRoute=null;
-
-	routeList.forEach(route=>{
-		const div=document.createElement("div");
-		div.textContent=route
-		div.style.cursor="pointer";
-		div.addEventListener("click",()=>{switchRoute(route)});
-		routeMenu.appendChild(div);
-	})
-
-	function switchRoute(route){
-		console.log(route);
-	}
+	<div id="routeMenu"></div>
+	<br/>
+	<div id="subRouteMenu"><div>
 	
-	function switchDirect(){
-		a=1-a;
-		stops(a);
-		shape(a);
-	}
-
-	function stops(n){
-		fetch("https://BrandNewCoffee.github.io/bus-data/data/stops/stops_542.json")
-		.then(res => res.json())
-		.then(data => {
-			currentStops.forEach(stop=>{map.removeLayer(stop)});
-			data.forEach(subRoute=>{
-				if(subRoute.direction===n){
-					subRoute.stops.forEach(stop => {
-						currentStops.push(L.marker([stop.lat, stop.lon])
-						.addTo(map)
-						.bindPopup(`${subRoute.route} (${subRoute.direction})<br>${stop.name}`));
-					});
-				};
-			});
-		});
-	};
-
-	function shape(n){
-		fetch("https://BrandNewCoffee.github.io/bus-data/data/shape/shape_542.json")
-		.then(res=>res.json())
-		.then(shape=>{
-			currentColor=colorChart[n];
-			if(currentLine){map.removeLayer(currentLine)};
-			shape.forEach(subRoute=>{
-				//console.log(subRoute.RouteData.Direction);
-				if(subRoute.Direction===n){
-					currentLine=L.polyline(subRoute.Geometry,{color:currentColor}).addTo(map)
-				};
-			});
-		});
-	};
-	switchDirect()
-
-	/*coorlist=[
-		[25.0685647702772,121.512909710037],[25.0685629859263,121.513287276894],[25.0685471790041,121.515184467204]
-	];
-
-	const latlngs0 = coorlist;
-	const polyline0 = L.polyline(latlngs0, {color: 'red'}).addTo(map);
-
-	const latlngs1= [
-		[25.0612864841839,121.544122997918],[25.0602154283727,121.544086222342],[25.0602297041518,121.540795152628]
-	];
-	const polyline1 = L.polyline(latlngs1, {color: 'blue'}).addTo(map);*/
-
-
-</script>
+	<script src="mapyesyes.js"></script>
 </body>
 </html>

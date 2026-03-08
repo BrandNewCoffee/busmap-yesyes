@@ -1,6 +1,7 @@
 [
   {
-    "SubRoute": "民權幹線",
+    "Route": "民權幹線",
+    "SubRoute": null,
     "Direction": 0,
     "Geometry": [
       [
@@ -638,7 +639,8 @@
     ]
   },
   {
-    "SubRoute": "民權幹線",
+    "Route": "民權幹線",
+    "SubRoute": null,
     "Direction": 1,
     "Geometry": [
       [

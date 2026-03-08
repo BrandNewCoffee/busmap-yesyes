@@ -1,6 +1,7 @@
 [
   {
-    "SubRoute": "618",
+    "Route": "618",
+    "SubRoute": null,
     "Direction": 0,
     "Geometry": [
       [
@@ -1018,7 +1019,8 @@
     ]
   },
   {
-    "SubRoute": "618",
+    "Route": "618",
+    "SubRoute": null,
     "Direction": 1,
     "Geometry": [
       [

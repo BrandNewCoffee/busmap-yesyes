@@ -1,6 +1,7 @@
 [
   {
-    "SubRoute": "南環幹線",
+    "Route": "南環幹線",
+    "SubRoute": null,
     "Direction": 0,
     "Geometry": [
       [
@@ -1730,7 +1731,8 @@
     ]
   },
   {
-    "SubRoute": "南環幹線",
+    "Route": "南環幹線",
+    "SubRoute": null,
     "Direction": 1,
     "Geometry": [
       [
@@ -3740,6 +3742,7 @@
     ]
   },
   {
+    "Route": "南環幹線",
     "SubRoute": "南環幹線調度站發車",
     "Direction": 0,
     "Geometry": [
@@ -5470,6 +5473,7 @@
     ]
   },
   {
+    "Route": "南環幹線",
     "SubRoute": "南環幹線調度站發車",
     "Direction": 1,
     "Geometry": [
@@ -7480,6 +7484,7 @@
     ]
   },
   {
+    "Route": "南環幹線",
     "SubRoute": "南環幹線捷運新店站發車",
     "Direction": 0,
     "Geometry": [
@@ -8494,6 +8499,7 @@
     ]
   },
   {
+    "Route": "南環幹線",
     "SubRoute": "南環幹線捷運新店站發車",
     "Direction": 1,
     "Geometry": [

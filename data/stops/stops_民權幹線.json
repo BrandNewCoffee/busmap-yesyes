@@ -1,5 +1,6 @@
 [
   {
+    "Route": "民權幹線",
     "SubRoute": "民權幹線",
     "Direction": 0,
     "Stops": [
@@ -216,6 +217,7 @@
     ]
   },
   {
+    "Route": "民權幹線",
     "SubRoute": "民權幹線",
     "Direction": 1,
     "Stops": [

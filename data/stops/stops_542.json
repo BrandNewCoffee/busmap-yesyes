@@ -1,5 +1,6 @@
 [
   {
+    "Route": "542",
     "SubRoute": "542路",
     "Direction": 0,
     "Stops": [
@@ -72,6 +73,7 @@
     ]
   },
   {
+    "Route": "542",
     "SubRoute": "542路",
     "Direction": 1,
     "Stops": [
@@ -150,6 +152,7 @@
     ]
   },
   {
+    "Route": "542",
     "SubRoute": "542預約公車",
     "Direction": 0,
     "Stops": [
@@ -222,6 +225,7 @@
     ]
   },
   {
+    "Route": "542",
     "SubRoute": "542預約公車",
     "Direction": 1,
     "Stops": [
@@ -300,6 +304,7 @@
     ]
   },
   {
+    "Route": "542",
     "SubRoute": "542路去程半",
     "Direction": 0,
     "Stops": [
@@ -378,6 +383,7 @@
     ]
   },
   {
+    "Route": "542",
     "SubRoute": "542路延駛民族西路",
     "Direction": 0,
     "Stops": [
@@ -456,6 +462,7 @@
     ]
   },
   {
+    "Route": "542",
     "SubRoute": "542路延駛民族西路",
     "Direction": 1,
     "Stops": [
@@ -540,6 +547,7 @@
     ]
   },
   {
+    "Route": "542預",
     "SubRoute": "542預",
     "Direction": 0,
     "Stops": [
@@ -612,6 +620,7 @@
     ]
   },
   {
+    "Route": "542預",
     "SubRoute": "542預",
     "Direction": 1,
     "Stops": [

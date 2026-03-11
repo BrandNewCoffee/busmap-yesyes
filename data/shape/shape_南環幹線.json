@@ -1,7 +1,7 @@
 [
   {
     "Route": "南環幹線",
-    "SubRoute": null,
+    "SubRoute": "南環幹線",
     "Direction": 0,
     "Geometry": [
       [
@@ -1732,7 +1732,7 @@
   },
   {
     "Route": "南環幹線",
-    "SubRoute": null,
+    "SubRoute": "南環幹線",
     "Direction": 1,
     "Geometry": [
       [

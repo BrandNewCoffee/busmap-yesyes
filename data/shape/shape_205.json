@@ -1,7 +1,7 @@
 [
   {
     "Route": "205",
-    "SubRoute": null,
+    "SubRoute": "205",
     "Direction": 0,
     "Geometry": [
       [
@@ -832,7 +832,7 @@
   },
   {
     "Route": "205",
-    "SubRoute": null,
+    "SubRoute": "205",
     "Direction": 1,
     "Geometry": [
       [

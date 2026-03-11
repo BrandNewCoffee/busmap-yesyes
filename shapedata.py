@@ -1,11 +1,11 @@
 import json
 import requests
 import time
-access_token="eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJER2lKNFE5bFg4WldFajlNNEE2amFVNm9JOGJVQ3RYWGV6OFdZVzh3ZkhrIn0.eyJleHAiOjE3NzMwNDEzOTQsImlhdCI6MTc3Mjk1NDk5NCwianRpIjoiZDk0YTNiMmUtMzVkNC00YzBmLWI5NGItOGEwZWY2NjMyOGU1IiwiaXNzIjoiaHR0cHM6Ly90ZHgudHJhbnNwb3J0ZGF0YS50dy9hdXRoL3JlYWxtcy9URFhDb25uZWN0Iiwic3ViIjoiNDQzOTdjOWEtZGFkNC00MjNkLTk0YzAtNWI5ODllN2FkZDZkIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiMzEwNzU4LWYwYjJlMTA2LWEyNzUtNGU2NiIsImFjciI6IjEiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsic3RhdGlzdGljIiwicHJlbWl1bSIsInBhcmtpbmdGZWUiLCJtYWFzIiwiYWR2YW5jZWQiLCJnZW9pbmZvIiwidmFsaWRhdG9yIiwidG91cmlzbSIsImhpc3RvcmljYWwiLCJjd2EiLCJiYXNpYyJdfSwic2NvcGUiOiJwcm9maWxlIGVtYWlsIiwidXNlciI6ImY1ZWUzNjE5In0.c4OE0PPpNZjzsp1Nhx7ezpKIqBAuLQCgKBTEMPw7mAoHnxcvprj0HNy1UYuqgh-OLT-mzNFNZJIV5uycS94KCdOMYdxfST1oeJxWijD72ofruemQQXuJ6w8IXkbs4O55n152dm4OIRqk3_DWXkVLoUkhhvceXkPu3gd84AytvD0Qp-TLMaEOHvhYxIa_6JXCsritgynd7tOvuzrUnvAyjle_Yg4eDR3QzJmH0OTDhY9r8ky6DTVTfqKrYBZQW9SGqoaZBp8H9dfPTlQjyUSyLKkc-79uOqLWbPDQ4C8cWr8_CN4KgHeIVAWRUx086LAsgV1QfzU9O4M9ZpOjh6p1tg"
+access_token="eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJER2lKNFE5bFg4WldFajlNNEE2amFVNm9JOGJVQ3RYWGV6OFdZVzh3ZkhrIn0.eyJleHAiOjE3NzMzMTUyMDksImlhdCI6MTc3MzIyODgwOSwianRpIjoiMDc5OWEyYmItNzlhNy00MjUxLTlkYTEtYzRiMTJmMjNjMWNlIiwiaXNzIjoiaHR0cHM6Ly90ZHgudHJhbnNwb3J0ZGF0YS50dy9hdXRoL3JlYWxtcy9URFhDb25uZWN0Iiwic3ViIjoiNDQzOTdjOWEtZGFkNC00MjNkLTk0YzAtNWI5ODllN2FkZDZkIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiMzEwNzU4LWYwYjJlMTA2LWEyNzUtNGU2NiIsImFjciI6IjEiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsic3RhdGlzdGljIiwicHJlbWl1bSIsInBhcmtpbmdGZWUiLCJtYWFzIiwiYWR2YW5jZWQiLCJnZW9pbmZvIiwidmFsaWRhdG9yIiwidG91cmlzbSIsImhpc3RvcmljYWwiLCJjd2EiLCJiYXNpYyJdfSwic2NvcGUiOiJwcm9maWxlIGVtYWlsIiwidXNlciI6ImY1ZWUzNjE5In0.PhzrZpkQIy_mVfo2EsHnYRSJzwk_H4bWfS1x0Z_R2vHJNelCpmws8lnOd7oEKW0_7LPLai_mZjdp_H6kTQ8A9JBJrHSsc4dtF_5GlUPjbdpHl7USir4VI_dhIJuEIcGleFjukY3riadY8qhZSIRxXvi7qboUVVHflbOen8toDvViaMatD2HEBbOr31NIvT8onRA9jLUcZwTGqPKlLJ6oPtsY4IgryvlROalsyZff2_05NEqSkm43WM7F_MBMPO8fi5XTNZ5h3Zl9njhtctjMK80QHaijYORG5FB2gqMXcatZGXpun0kquKHwD0yAmEhETwSgDpkOQlJF73prMWePPQ"
 headers = {
     "authorization": f"Bearer {access_token}"
 }
-routeList=["小7","542","234","南環幹線","205","618","民權幹線"]
+routeList=["小7"]#,"542","234","南環幹線","205","618","民權幹線"]
 
 def get_data(url):
     response = requests.get(url, headers=headers)
@@ -30,10 +30,13 @@ for route in routeList: #shape
         for pair in coor:
             lat,lon=map(float,pair.split())
             innerCoor.append([lon,lat])
-            
+        
+        s=subRoute["SubRouteName"].get("Zh_tw")
+        if s==None:
+            s=subRoute["RouteName"]["Zh_tw"]
         newCoor.append({
             "Route":subRoute["RouteName"]["Zh_tw"],
-            "SubRoute":subRoute["SubRouteName"].get("Zh_tw"),
+            "SubRoute":s,
             "Direction":subRoute["Direction"],"Geometry":innerCoor
             })
 

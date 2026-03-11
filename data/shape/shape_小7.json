@@ -1,7 +1,7 @@
 [
   {
     "Route": "小7",
-    "SubRoute": null,
+    "SubRoute": "小7",
     "Direction": 0,
     "Geometry": [
       [
@@ -1836,7 +1836,7 @@
   },
   {
     "Route": "小7",
-    "SubRoute": null,
+    "SubRoute": "小7",
     "Direction": 1,
     "Geometry": [
       [

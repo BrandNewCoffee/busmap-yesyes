@@ -2,8 +2,8 @@ import requests
 import json
 from pprint import pprint
 
-app_id = '310758-f0b2e106-a275-4e66'
-app_key = '1862cdc6-8f5d-47c3-8aa2-b78f2b943815'
+app_id = '***'
+app_key = '***'
 
 auth_url = "https://tdx.transportdata.tw/auth/realms/TDXConnect/protocol/openid-connect/token"
 url = "https://tdx.transportdata.tw/api/basic/v2/Bus/Route/City/Taipei/612?%24top=10&%24format=JSON"

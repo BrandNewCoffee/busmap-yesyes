@@ -10,12 +10,21 @@ currentLine=null
 //start=null
 routeList=["234","南環幹線","205","618","民權幹線","542","小7"];
 currentStops=L.layerGroup().addTo(map)
+// greenIcon = L.icon({
+//     iconUrl: 'diamond.png',
+
+//     iconSize:     [38, 38], // size of the icon
+//     //shadowSize:   [50, 64], // size of the shadow
+//     //iconAnchor:   [22, 22], // point of the icon which will correspond to marker's location
+//     //shadowAnchor: [4, 62],  // the same for the shadow
+//     //popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+// });
 
 
 routeList.forEach(route=>{
     const btn=document.createElement("button");
     btn.textContent=route;
-    btn.style.cursor="pointer";
+    btn.classList.add("button");
     btn.addEventListener("click",()=>showMenu(route));
     routeMenu.appendChild(btn)}
 )
@@ -33,7 +42,7 @@ function showMenu(route){
         data.forEach(subRoute=>{
             const btn=document.createElement("button");
             btn.textContent=`${subRoute.SubRoute}(${subRoute.Direction})`;
-            btn.style.cursor="pointer";
+            btn.classList.add("button");
             btn.addEventListener("click",()=>shape(route,subRoute.SubRoute,subRoute.Direction));
             shapeMenu.appendChild(btn);
         })
@@ -47,7 +56,7 @@ function showMenu(route){
         data.forEach(subRoute=>{
             const btn=document.createElement("button");
             btn.textContent=`${subRoute.SubRoute}(${subRoute.Direction})`;
-            btn.style.cursor="pointer";
+            btn.classList.add("button");
             btn.addEventListener("click",()=>stops(route,subRoute.SubRoute,subRoute.Direction));
             stopsMenu.appendChild(btn);
         })

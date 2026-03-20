@@ -1,14 +1,14 @@
 const map = L.map('map').setView([25.05,121.53],12);
 
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
+    maxZoom: 20,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
 const colorChart=["red","blue"];
 currentLine=null
 //start=null
-routeList=["234","南環幹線","205","618","民權幹線","542","小7"];
+routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","542","小7"];
 currentStops=L.layerGroup().addTo(map)
 // greenIcon = L.icon({
 //     iconUrl: 'diamond.png',

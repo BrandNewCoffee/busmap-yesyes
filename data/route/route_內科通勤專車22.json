@@ -638,97 +638,113 @@
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1462"
       },
       {
         "Name": "臺北市立美術館",
         "Lat": 25.0721395085303,
         "Lon": 121.523964286473,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "101"
       },
       {
         "Name": "圓山大飯店",
         "Lat": 25.0772703676354,
         "Lon": 121.528167347349,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1356"
       },
       {
         "Name": "中央電台",
         "Lat": 25.0779258290758,
         "Lon": 121.53000062511,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1195"
       },
       {
         "Name": "忠烈祠",
         "Lat": 25.07800478,
         "Lon": 121.5319142,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1260"
       },
       {
         "Name": "經國七海文化園區",
         "Lat": 25.07778224,
         "Lon": 121.535397,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "4740"
       },
       {
         "Name": "堤頂大道口",
         "Lat": 25.07839,
         "Lon": 121.56405,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "20418"
       },
       {
         "Name": "基湖站",
         "Lat": 25.0801,
         "Lon": 121.56489,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "8405"
       },
       {
         "Name": "基湖路口",
         "Lat": 25.08025003,
         "Lon": 121.5662362,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "8404"
       },
       {
         "Name": "仁寶大樓",
         "Lat": 25.07921316,
         "Lon": 121.5684974,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1007"
       },
       {
         "Name": "瑞光港墘路口",
         "Lat": 25.078319,
         "Lon": 121.570459,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1165608385"
       },
       {
         "Name": "捷運港墘站(內湖高工)",
         "Lat": 25.0801493693391,
         "Lon": 121.574618145655,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "997"
       },
       {
         "Name": "西湖圖書館(湖光教會)",
         "Lat": 25.078956,
         "Lon": 121.57768,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1165604813"
       },
       {
         "Name": "內湖國小",
         "Lat": 25.07929048,
         "Lon": 121.5812755,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "999"
       },
       {
         "Name": "達人高中(臺灣戲曲學院)",
         "Lat": 25.08114,
         "Lon": 121.5868,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1133"
       },
       {
         "Name": "內湖派出所",
         "Lat": 25.08178839,
         "Lon": 121.5894925,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "993"
       }
     ]
   },
@@ -1351,121 +1367,141 @@
         "Name": "成功路三段",
         "Lat": 25.0798544258006,
         "Lon": 121.589838083526,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1029"
       },
       {
         "Name": "內湖高中",
         "Lat": 25.07901319,
         "Lon": 121.5883097,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "8523"
       },
       {
         "Name": "捷運文德站(碧湖公園)",
         "Lat": 25.078655,
         "Lon": 121.584351,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1109"
       },
       {
         "Name": "湖光國宅",
         "Lat": 25.07859,
         "Lon": 121.58078,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "8415"
       },
       {
         "Name": "西湖圖書館(湖光教會)",
         "Lat": 25.07889,
         "Lon": 121.578499,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1165604812"
       },
       {
         "Name": "港墘派出所",
         "Lat": 25.078636,
         "Lon": 121.57619,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "4657"
       },
       {
         "Name": "瑞光港墘路口",
         "Lat": 25.07729684,
         "Lon": 121.5731066,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1000895"
       },
       {
         "Name": "仁寶大樓",
         "Lat": 25.079478,
         "Lon": 121.568256,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1000896"
       },
       {
         "Name": "基湖路口",
         "Lat": 25.0805158061818,
         "Lon": 121.565903409458,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "8403"
       },
       {
         "Name": "基湖站",
         "Lat": 25.07973077,
         "Lon": 121.5646071,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1083"
       },
       {
         "Name": "堤頂大道口",
         "Lat": 25.07666,
         "Lon": 121.56305,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1102"
       },
       {
         "Name": "明水路三",
         "Lat": 25.07742,
         "Lon": 121.54947,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1268"
       },
       {
         "Name": "大直抽水站",
         "Lat": 25.07757,
         "Lon": 121.54534,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1177"
       },
       {
         "Name": "北安國中",
         "Lat": 25.07768,
         "Lon": 121.54181,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "1213"
       },
       {
         "Name": "忠烈祠",
         "Lat": 25.0780024350627,
         "Lon": 121.535552182321,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "9436"
       },
       {
         "Name": "中央電台",
         "Lat": 25.0781282212443,
         "Lon": 121.530144788528,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "9434"
       },
       {
         "Name": "圓山大飯店",
         "Lat": 25.077322358349,
         "Lon": 121.527964269875,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1357"
       },
       {
         "Name": "臺北市立美術館",
         "Lat": 25.070066233009,
         "Lon": 121.523095139749,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "4121"
       },
       {
         "Name": "花博公園",
         "Lat": 25.0685957947607,
         "Lon": 121.520798366208,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "1407"
       },
       {
         "Name": "捷運圓山站",
         "Lat": 25.06919565,
         "Lon": 121.5199738,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "1001373"
       }
     ]
   }

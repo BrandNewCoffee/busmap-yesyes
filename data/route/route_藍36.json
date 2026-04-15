@@ -886,217 +886,253 @@
         "Name": "環河市民活動中心",
         "Lat": 25.060345,
         "Lon": 121.624227,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "70887"
       },
       {
         "Name": "環河里",
         "Lat": 25.059088,
         "Lon": 121.625821,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "7650"
       },
       {
         "Name": "泛碟科技",
         "Lat": 25.061017,
         "Lon": 121.628202,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "7647"
       },
       {
         "Name": "大樹木業",
         "Lat": 25.06242,
         "Lon": 121.62996,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "7648"
       },
       {
         "Name": "北峰國小",
         "Lat": 25.06338,
         "Lon": 121.63165,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "6753"
       },
       {
         "Name": "理明社區",
         "Lat": 25.0646,
         "Lon": 121.633609,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "7675"
       },
       {
         "Name": "台北奇蹟",
         "Lat": 25.065549,
         "Lon": 121.635248,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "7674"
       },
       {
         "Name": "柏克力托兒所",
         "Lat": 25.066714,
         "Lon": 121.636626,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1001451"
       },
       {
         "Name": "生活大國社區",
         "Lat": 25.068329,
         "Lon": 121.638049,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "70873"
       },
       {
         "Name": "人情味小鎮",
         "Lat": 25.069847,
         "Lon": 121.639022,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "2718"
       },
       {
         "Name": "康福里",
         "Lat": 25.069658,
         "Lon": 121.637965,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "7652"
       },
       {
         "Name": "興福里",
         "Lat": 25.067918,
         "Lon": 121.634742,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "4172"
       },
       {
         "Name": "大汐止百貨",
         "Lat": 25.06618342,
         "Lon": 121.6325665,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "7686"
       },
       {
         "Name": "世電社區",
         "Lat": 25.0660033327685,
         "Lon": 121.631401137544,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "7619"
       },
       {
         "Name": "北峰里(康寧街)",
         "Lat": 25.067787,
         "Lon": 121.628825,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "7643"
       },
       {
         "Name": "金龍國小(康寧街)",
         "Lat": 25.067368167607,
         "Lon": 121.626867537731,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "2777"
       },
       {
         "Name": "木南煤礦",
         "Lat": 25.067032,
         "Lon": 121.62487,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2725"
       },
       {
         "Name": "經貿園區",
         "Lat": 25.0666228369498,
         "Lon": 121.621242309823,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "2799"
       },
       {
         "Name": "北山里",
         "Lat": 25.06680801,
         "Lon": 121.6188199,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2730"
       },
       {
         "Name": "東湖國小",
         "Lat": 25.068177,
         "Lon": 121.61668,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "8531"
       },
       {
         "Name": "五分社區",
         "Lat": 25.068763284981,
         "Lon": 121.614308439756,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "5441"
       },
       {
         "Name": "明湖國中",
         "Lat": 25.0702607638519,
         "Lon": 121.611642249953,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "8534"
       },
       {
         "Name": "明湖國小(公共電視台)",
         "Lat": 25.0718101504888,
         "Lon": 121.609308386226,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "50442"
       },
       {
         "Name": "捷運葫洲站(康寧大學)",
         "Lat": 25.0726213066526,
         "Lon": 121.607610913193,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "1165606697"
       },
       {
         "Name": "民權隧道",
         "Lat": 25.0723674,
         "Lon": 121.6048395,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "50443"
       },
       {
         "Name": "民權隧道二",
         "Lat": 25.067297,
         "Lon": 121.60099,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "8675"
       },
       {
         "Name": "民權東路六段(民權敦品)",
         "Lat": 25.06726047,
         "Lon": 121.5984,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "8674"
       },
       {
         "Name": "國防醫學大學",
         "Lat": 25.06831,
         "Lon": 121.59613,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "8673"
       },
       {
         "Name": "福華商場",
         "Lat": 25.06897,
         "Lon": 121.59362,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "8672"
       },
       {
         "Name": "湖興",
         "Lat": 25.0680308659982,
         "Lon": 121.590661157725,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1107"
       },
       {
         "Name": "上灣仔",
         "Lat": 25.0670002134225,
         "Lon": 121.590521443523,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "985"
       },
       {
         "Name": "成功路二段(交流道)",
         "Lat": 25.06290258,
         "Lon": 121.5907021,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "1165610511"
       },
       {
         "Name": "石潭公園(成功)",
         "Lat": 25.061041,
         "Lon": 121.591015,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "50433"
       },
       {
         "Name": "南港分局(向陽)",
         "Lat": 25.05574836,
         "Lon": 121.5937887,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "1647"
       },
       {
         "Name": "南港高中",
         "Lat": 25.0530195,
         "Lon": 121.5949802,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "1000314"
       },
       {
         "Name": "捷運昆陽站",
         "Lat": 25.050346,
         "Lon": 121.593165,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "1697"
       }
     ]
   },
@@ -2027,205 +2063,239 @@
         "Name": "捷運昆陽站",
         "Lat": 25.050052,
         "Lon": 121.59306,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1165604773"
       },
       {
         "Name": "南港高中",
         "Lat": 25.0529513842885,
         "Lon": 121.595233108141,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1000319"
       },
       {
         "Name": "南港分局(向陽)",
         "Lat": 25.0553345135907,
         "Lon": 121.594415258716,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1646"
       },
       {
         "Name": "石潭公園(成功)",
         "Lat": 25.061289,
         "Lon": 121.591281,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "50434"
       },
       {
         "Name": "成功路二段(交流道)",
         "Lat": 25.0646545,
         "Lon": 121.5910436,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1165610510"
       },
       {
         "Name": "上灣仔",
         "Lat": 25.066818699184,
         "Lon": 121.590714855835,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "8663"
       },
       {
         "Name": "湖興",
         "Lat": 25.067861865327,
         "Lon": 121.59085370773,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "8664"
       },
       {
         "Name": "福華商場",
         "Lat": 25.06874,
         "Lon": 121.59365,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1138"
       },
       {
         "Name": "臺北市網球中心",
         "Lat": 25.06819281,
         "Lon": 121.5957666,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1081"
       },
       {
         "Name": "民權東路六段(民權敦品)",
         "Lat": 25.0670359070235,
         "Lon": 121.598356860114,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1019"
       },
       {
         "Name": "民權隧道二",
         "Lat": 25.0672531124649,
         "Lon": 121.601285503886,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1024"
       },
       {
         "Name": "民權隧道",
         "Lat": 25.07190837,
         "Lon": 121.6048395,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "149"
       },
       {
         "Name": "捷運葫洲站(康寧大學)",
         "Lat": 25.07246542,
         "Lon": 121.6075013,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1165606698"
       },
       {
         "Name": "明湖國小(公共電視台)",
         "Lat": 25.0716328345384,
         "Lon": 121.609320074507,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "1049"
       },
       {
         "Name": "五分社區",
         "Lat": 25.06860831,
         "Lon": 121.6144033,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "986"
       },
       {
         "Name": "東湖國小",
         "Lat": 25.06806969,
         "Lon": 121.6165906,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "8530"
       },
       {
         "Name": "北山里",
         "Lat": 25.066676,
         "Lon": 121.618528,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "7684"
       },
       {
         "Name": "經貿園區",
         "Lat": 25.0666077871618,
         "Lon": 121.622098011234,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "7636"
       },
       {
         "Name": "木南煤礦",
         "Lat": 25.066839,
         "Lon": 121.624809,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2727"
       },
       {
         "Name": "金龍國小(康寧街)",
         "Lat": 25.067351,
         "Lon": 121.627395,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "7638"
       },
       {
         "Name": "北峰里(康寧街)",
         "Lat": 25.067676,
         "Lon": 121.628878,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "7642"
       },
       {
         "Name": "世電社區",
         "Lat": 25.065928,
         "Lon": 121.631193,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "2729"
       },
       {
         "Name": "大汐止百貨",
         "Lat": 25.066005,
         "Lon": 121.632544,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "2720"
       },
       {
         "Name": "興福里",
         "Lat": 25.068116,
         "Lon": 121.635229,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "4173"
       },
       {
         "Name": "康福里",
         "Lat": 25.068876,
         "Lon": 121.6375836,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "70876"
       },
       {
         "Name": "生活大國社區",
         "Lat": 25.068376,
         "Lon": 121.637887,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "2737"
       },
       {
         "Name": "柏克力托兒所",
         "Lat": 25.066706,
         "Lon": 121.636377,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "2784"
       },
       {
         "Name": "台北奇蹟",
         "Lat": 25.065829,
         "Lon": 121.63543,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "1001452"
       },
       {
         "Name": "理明社區",
         "Lat": 25.064715,
         "Lon": 121.633504,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "2792"
       },
       {
         "Name": "北峰國小",
         "Lat": 25.06346,
         "Lon": 121.631498,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "2735"
       },
       {
         "Name": "大樹木業",
         "Lat": 25.06244,
         "Lon": 121.63,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "7649"
       },
       {
         "Name": "泛碟科技",
         "Lat": 25.06101,
         "Lon": 121.62789,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "2771"
       },
       {
         "Name": "環河里",
         "Lat": 25.05941,
         "Lon": 121.62608,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "7651"
       },
       {
         "Name": "環河市民活動中心",
         "Lat": 25.060452,
         "Lon": 121.62434,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "70886"
       }
     ]
   },
@@ -3116,217 +3186,253 @@
         "Name": "環河市民活動中心",
         "Lat": 25.060345,
         "Lon": 121.624227,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "70887"
       },
       {
         "Name": "環河里",
         "Lat": 25.059088,
         "Lon": 121.625821,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "7650"
       },
       {
         "Name": "泛碟科技",
         "Lat": 25.061017,
         "Lon": 121.628202,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "7647"
       },
       {
         "Name": "大樹木業",
         "Lat": 25.06242,
         "Lon": 121.62996,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "7648"
       },
       {
         "Name": "北峰國小",
         "Lat": 25.06338,
         "Lon": 121.63165,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "6753"
       },
       {
         "Name": "理明社區",
         "Lat": 25.0646,
         "Lon": 121.633609,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "7675"
       },
       {
         "Name": "台北奇蹟",
         "Lat": 25.065549,
         "Lon": 121.635248,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "7674"
       },
       {
         "Name": "柏克力托兒所",
         "Lat": 25.066714,
         "Lon": 121.636626,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1001451"
       },
       {
         "Name": "生活大國社區",
         "Lat": 25.068329,
         "Lon": 121.638049,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "70873"
       },
       {
         "Name": "人情味小鎮",
         "Lat": 25.069847,
         "Lon": 121.639022,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "2718"
       },
       {
         "Name": "康福里",
         "Lat": 25.069658,
         "Lon": 121.637965,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "7652"
       },
       {
         "Name": "興福里",
         "Lat": 25.067918,
         "Lon": 121.634742,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "4172"
       },
       {
         "Name": "大汐止百貨",
         "Lat": 25.06618342,
         "Lon": 121.6325665,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "7686"
       },
       {
         "Name": "世電社區",
         "Lat": 25.0660033327685,
         "Lon": 121.631401137544,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "7619"
       },
       {
         "Name": "北峰里(康寧街)",
         "Lat": 25.067787,
         "Lon": 121.628825,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "7643"
       },
       {
         "Name": "金龍國小(康寧街)",
         "Lat": 25.067368167607,
         "Lon": 121.626867537731,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "2777"
       },
       {
         "Name": "木南煤礦",
         "Lat": 25.067032,
         "Lon": 121.62487,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2725"
       },
       {
         "Name": "經貿園區",
         "Lat": 25.0666228369498,
         "Lon": 121.621242309823,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "2799"
       },
       {
         "Name": "北山里",
         "Lat": 25.06680801,
         "Lon": 121.6188199,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2730"
       },
       {
         "Name": "東湖國小",
         "Lat": 25.068177,
         "Lon": 121.61668,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "8531"
       },
       {
         "Name": "五分社區",
         "Lat": 25.068763284981,
         "Lon": 121.614308439756,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "5441"
       },
       {
         "Name": "明湖國中",
         "Lat": 25.0702607638519,
         "Lon": 121.611642249953,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "8534"
       },
       {
         "Name": "明湖國小(公共電視台)",
         "Lat": 25.0718101504888,
         "Lon": 121.609308386226,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "50442"
       },
       {
         "Name": "捷運葫洲站(康寧大學)",
         "Lat": 25.0726213066526,
         "Lon": 121.607610913193,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "1165606697"
       },
       {
         "Name": "民權隧道",
         "Lat": 25.0723674,
         "Lon": 121.6048395,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "50443"
       },
       {
         "Name": "民權隧道二",
         "Lat": 25.067297,
         "Lon": 121.60099,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "8675"
       },
       {
         "Name": "民權東路六段(民權敦品)",
         "Lat": 25.06726047,
         "Lon": 121.5984,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "8674"
       },
       {
         "Name": "國防醫學大學",
         "Lat": 25.06831,
         "Lon": 121.59613,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "8673"
       },
       {
         "Name": "福華商場",
         "Lat": 25.06897,
         "Lon": 121.59362,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "8672"
       },
       {
         "Name": "湖興",
         "Lat": 25.0680308659982,
         "Lon": 121.590661157725,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1107"
       },
       {
         "Name": "上灣仔",
         "Lat": 25.0670002134225,
         "Lon": 121.590521443523,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "985"
       },
       {
         "Name": "成功路二段(交流道)",
         "Lat": 25.06290258,
         "Lon": 121.5907021,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "1165610511"
       },
       {
         "Name": "石潭公園(成功)",
         "Lat": 25.061041,
         "Lon": 121.591015,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "50433"
       },
       {
         "Name": "南港分局(向陽)",
         "Lat": 25.05574836,
         "Lon": 121.5937887,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "1647"
       },
       {
         "Name": "南港高中",
         "Lat": 25.0530195,
         "Lon": 121.5949802,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "1000314"
       },
       {
         "Name": "捷運昆陽站",
         "Lat": 25.050346,
         "Lon": 121.593165,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "1697"
       }
     ]
   },
@@ -4257,205 +4363,239 @@
         "Name": "捷運昆陽站",
         "Lat": 25.050052,
         "Lon": 121.59306,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1165604773"
       },
       {
         "Name": "南港高中",
         "Lat": 25.0529513842885,
         "Lon": 121.595233108141,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1000319"
       },
       {
         "Name": "南港分局(向陽)",
         "Lat": 25.0553345135907,
         "Lon": 121.594415258716,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1646"
       },
       {
         "Name": "石潭公園(成功)",
         "Lat": 25.061289,
         "Lon": 121.591281,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "50434"
       },
       {
         "Name": "成功路二段(交流道)",
         "Lat": 25.0646545,
         "Lon": 121.5910436,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1165610510"
       },
       {
         "Name": "上灣仔",
         "Lat": 25.066818699184,
         "Lon": 121.590714855835,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "8663"
       },
       {
         "Name": "湖興",
         "Lat": 25.067861865327,
         "Lon": 121.59085370773,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "8664"
       },
       {
         "Name": "福華商場",
         "Lat": 25.06874,
         "Lon": 121.59365,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1138"
       },
       {
         "Name": "臺北市網球中心",
         "Lat": 25.06819281,
         "Lon": 121.5957666,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1081"
       },
       {
         "Name": "民權東路六段(民權敦品)",
         "Lat": 25.0670359070235,
         "Lon": 121.598356860114,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1019"
       },
       {
         "Name": "民權隧道二",
         "Lat": 25.0672531124649,
         "Lon": 121.601285503886,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1024"
       },
       {
         "Name": "民權隧道",
         "Lat": 25.07190837,
         "Lon": 121.6048395,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "149"
       },
       {
         "Name": "捷運葫洲站(康寧大學)",
         "Lat": 25.07246542,
         "Lon": 121.6075013,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1165606698"
       },
       {
         "Name": "明湖國小(公共電視台)",
         "Lat": 25.0716328345384,
         "Lon": 121.609320074507,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "1049"
       },
       {
         "Name": "五分社區",
         "Lat": 25.06860831,
         "Lon": 121.6144033,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "986"
       },
       {
         "Name": "東湖國小",
         "Lat": 25.06806969,
         "Lon": 121.6165906,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "8530"
       },
       {
         "Name": "北山里",
         "Lat": 25.066676,
         "Lon": 121.618528,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "7684"
       },
       {
         "Name": "經貿園區",
         "Lat": 25.0666077871618,
         "Lon": 121.622098011234,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "7636"
       },
       {
         "Name": "木南煤礦",
         "Lat": 25.066839,
         "Lon": 121.624809,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2727"
       },
       {
         "Name": "金龍國小(康寧街)",
         "Lat": 25.067351,
         "Lon": 121.627395,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "7638"
       },
       {
         "Name": "北峰里(康寧街)",
         "Lat": 25.067676,
         "Lon": 121.628878,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "7642"
       },
       {
         "Name": "世電社區",
         "Lat": 25.065928,
         "Lon": 121.631193,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "2729"
       },
       {
         "Name": "大汐止百貨",
         "Lat": 25.066005,
         "Lon": 121.632544,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "2720"
       },
       {
         "Name": "興福里",
         "Lat": 25.068116,
         "Lon": 121.635229,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "4173"
       },
       {
         "Name": "康福里",
         "Lat": 25.068876,
         "Lon": 121.6375836,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "70876"
       },
       {
         "Name": "生活大國社區",
         "Lat": 25.068376,
         "Lon": 121.637887,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "2737"
       },
       {
         "Name": "柏克力托兒所",
         "Lat": 25.066706,
         "Lon": 121.636377,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "2784"
       },
       {
         "Name": "台北奇蹟",
         "Lat": 25.065829,
         "Lon": 121.63543,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "1001452"
       },
       {
         "Name": "理明社區",
         "Lat": 25.064715,
         "Lon": 121.633504,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "2792"
       },
       {
         "Name": "北峰國小",
         "Lat": 25.06346,
         "Lon": 121.631498,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "2735"
       },
       {
         "Name": "大樹木業",
         "Lat": 25.06244,
         "Lon": 121.63,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "7649"
       },
       {
         "Name": "泛碟科技",
         "Lat": 25.06101,
         "Lon": 121.62789,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "2771"
       },
       {
         "Name": "環河里",
         "Lat": 25.05941,
         "Lon": 121.62608,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "7651"
       },
       {
         "Name": "環河市民活動中心",
         "Lat": 25.060452,
         "Lon": 121.62434,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "70886"
       }
     ]
   }

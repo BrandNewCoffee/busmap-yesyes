@@ -1734,319 +1734,372 @@
         "Name": "新店站",
         "Lat": 24.96030896,
         "Lon": 121.4834142,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "72232"
       },
       {
         "Name": "安祥路口",
         "Lat": 24.9554,
         "Lon": 121.491777,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "2902"
       },
       {
         "Name": "大茅埔",
         "Lat": 24.95431753,
         "Lon": 121.4946626,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1000380"
       },
       {
         "Name": "康樂新村",
         "Lat": 24.955162,
         "Lon": 121.496698,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1000381"
       },
       {
         "Name": "仁康醫院",
         "Lat": 24.956348,
         "Lon": 121.499054,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "3983"
       },
       {
         "Name": "薏仁坑",
         "Lat": 24.95733611,
         "Lon": 121.502106,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "3982"
       },
       {
         "Name": "安康車子路口",
         "Lat": 24.958027,
         "Lon": 121.505929,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "3984"
       },
       {
         "Name": "台北菸廠",
         "Lat": 24.959017,
         "Lon": 121.509284,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "2887"
       },
       {
         "Name": "浪漫貴族",
         "Lat": 24.960016,
         "Lon": 121.511483,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1000401"
       },
       {
         "Name": "公崙新村(豐榮醫院)",
         "Lat": 24.962041,
         "Lon": 121.512648,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1000402"
       },
       {
         "Name": "安康派出所",
         "Lat": 24.963642,
         "Lon": 121.515311,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1000403"
       },
       {
         "Name": "光華新村(安康路)",
         "Lat": 24.963936,
         "Lon": 121.517942,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "2896"
       },
       {
         "Name": "安華路口",
         "Lat": 24.9637050292789,
         "Lon": 121.521365324681,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "20310"
       },
       {
         "Name": "下城社區",
         "Lat": 24.96347353,
         "Lon": 121.5235251,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "2858"
       },
       {
         "Name": "胡璉故居紀念館",
         "Lat": 24.962917,
         "Lon": 121.52598,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "2857"
       },
       {
         "Name": "頂城",
         "Lat": 24.961725,
         "Lon": 121.528339,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "2934"
       },
       {
         "Name": "大坪頂",
         "Lat": 24.961041,
         "Lon": 121.530152,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2855"
       },
       {
         "Name": "溪頭",
         "Lat": 24.960256,
         "Lon": 121.532361,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "2679"
       },
       {
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "72044"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.963158,
         "Lon": 121.53982,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "60071"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96500149,
         "Lon": 121.5405875,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2981"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.96763873691205,
         "Lon": 121.54161613426882,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "30100"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.971513,
         "Lon": 121.542921,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "30101"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.9753,
         "Lon": 121.5430453,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "30102"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978161,
         "Lon": 121.542795,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "30103"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.979007,
         "Lon": 121.54378,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "60063"
       },
       {
         "Name": "寶橋路口",
         "Lat": 24.976868,
         "Lon": 121.546288,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "2987"
       },
       {
         "Name": "寶橋中興路口一",
         "Lat": 24.97650499,
         "Lon": 121.547757,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "4160"
       },
       {
         "Name": "加油站",
         "Lat": 24.977046,
         "Lon": 121.548731,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "1000551"
       },
       {
         "Name": "寶高產業園區",
         "Lat": 24.9786235157248,
         "Lon": 121.551231544066,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1000552"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980335,
         "Lon": 121.55568,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2461"
       },
       {
         "Name": "木新市場",
         "Lat": 24.98100977,
         "Lon": 121.5583622,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "1000553"
       },
       {
         "Name": "力行國小",
         "Lat": 24.9813802657801,
         "Lon": 121.559783932422,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "1000554"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.981856,
         "Lon": 121.561802,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "3993"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982503951501606,
         "Lon": 121.56456790757427,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "1000453"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98305,
         "Lon": 121.56636,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "4028"
       },
       {
         "Name": "景文中學",
         "Lat": 24.9837877068618,
         "Lon": 121.568528509552,
-        "Sequence": 37
+        "Sequence": 37,
+        "StationID": "1000540"
       },
       {
         "Name": "木南公園",
         "Lat": 24.985348,
         "Lon": 121.570615,
-        "Sequence": 38
+        "Sequence": 38,
+        "StationID": "50681"
       },
       {
         "Name": "指南路口",
         "Lat": 24.9871941238226,
         "Lon": 121.570722800802,
-        "Sequence": 39
+        "Sequence": 39,
+        "StationID": "2426"
       },
       {
         "Name": "政大",
         "Lat": 24.9878362086283,
         "Lon": 121.574633255625,
-        "Sequence": 40
+        "Sequence": 40,
+        "StationID": "2415"
       },
       {
         "Name": "政大一",
         "Lat": 24.988319,
         "Lon": 121.576427,
-        "Sequence": 41
+        "Sequence": 41,
+        "StationID": "1001400"
       },
       {
         "Name": "萬興圖書館",
         "Lat": 24.989020423587586,
         "Lon": 121.57699279565435,
-        "Sequence": 42
+        "Sequence": 42,
+        "StationID": "2520"
       },
       {
         "Name": "大誠高中",
         "Lat": 24.990413,
         "Lon": 121.576905,
-        "Sequence": 43
+        "Sequence": 43,
+        "StationID": "2368"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.991863,
         "Lon": 121.574627,
-        "Sequence": 44
+        "Sequence": 44,
+        "StationID": "50671"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.992819,
         "Lon": 121.573853,
-        "Sequence": 45
+        "Sequence": 45,
+        "StationID": "50669"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9963006246947,
         "Lon": 121.576314002724,
-        "Sequence": 46
+        "Sequence": 46,
+        "StationID": "2443"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99857,
         "Lon": 121.57996,
-        "Sequence": 47
+        "Sequence": 47,
+        "StationID": "50672"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.0028393386766,
         "Lon": 121.583287778248,
-        "Sequence": 48
+        "Sequence": 48,
+        "StationID": "56111"
       },
       {
         "Name": "風動石",
         "Lat": 25.0011783104188,
         "Lon": 121.579255519338,
-        "Sequence": 49
+        "Sequence": 49,
+        "StationID": "2429"
       },
       {
         "Name": "信義松仁路口(信義)",
         "Lat": 25.0329497897498,
         "Lon": 121.566687674056,
-        "Sequence": 50
+        "Sequence": 50,
+        "StationID": "6929"
       },
       {
         "Name": "捷運台北101/世貿站(市府)",
         "Lat": 25.034512868313872,
         "Lon": 121.56357599974903,
-        "Sequence": 51
+        "Sequence": 51,
+        "StationID": "2029"
       },
       {
         "Name": "市政府(市府)",
         "Lat": 25.038332,
         "Lon": 121.563754,
-        "Sequence": 52
+        "Sequence": 52,
+        "StationID": "2063"
       },
       {
         "Name": "捷運市政府站",
         "Lat": 25.04100991,
         "Lon": 121.5668354,
-        "Sequence": 53
+        "Sequence": 53,
+        "StationID": "3916"
       }
     ]
   },
@@ -4065,307 +4118,358 @@
         "Name": "消防局(松仁)",
         "Lat": 25.038604,
         "Lon": 121.568284,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1165604593"
       },
       {
         "Name": "興雅國中",
         "Lat": 25.0372323905063,
         "Lon": 121.568268559011,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "2179"
       },
       {
         "Name": "信義松仁路口(松仁)",
         "Lat": 25.0345352489599,
         "Lon": 121.568236043782,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "2121"
       },
       {
         "Name": "風動石",
         "Lat": 25.00102,
         "Lon": 121.57937,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "309"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.00261,
         "Lon": 121.58301,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "2400"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99881,
         "Lon": 121.58021,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "2442"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9968,
         "Lon": 121.576778,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1000436"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.993482,
         "Lon": 121.57363,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "2512"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.99161,
         "Lon": 121.574153,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "2510"
       },
       {
         "Name": "萬興國小",
         "Lat": 24.989679,
         "Lon": 121.576757,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "2519"
       },
       {
         "Name": "政大一",
         "Lat": 24.98782160454249,
         "Lon": 121.57604615193513,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1001409"
       },
       {
         "Name": "新光路口",
         "Lat": 24.9880845060964,
         "Lon": 121.573881732316,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1000854"
       },
       {
         "Name": "指南路口",
         "Lat": 24.986224,
         "Lon": 121.570606,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1000544"
       },
       {
         "Name": "木南公園",
         "Lat": 24.984828,
         "Lon": 121.57011,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "2521"
       },
       {
         "Name": "景文中學",
         "Lat": 24.984131427903375,
         "Lon": 121.56895990914902,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1000522"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98347,
         "Lon": 121.56695,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "4029"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982712452429457,
         "Lon": 121.56460855354919,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2411"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.9820534481377,
         "Lon": 121.561849824052,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "3994"
       },
       {
         "Name": "力行國小",
         "Lat": 24.981733915823476,
         "Lon": 121.56033392387744,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2362"
       },
       {
         "Name": "木新市場",
         "Lat": 24.9811534735698,
         "Lon": 121.558272457788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "2391"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980465,
         "Lon": 121.555554,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2462"
       },
       {
         "Name": "寶高產業園區(寶中路)",
         "Lat": 24.97896,
         "Lon": 121.55006,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20306"
       },
       {
         "Name": "寶中路",
         "Lat": 24.980666,
         "Lon": 121.548333,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "2984"
       },
       {
         "Name": "臺灣銀行",
         "Lat": 24.9794,
         "Lon": 121.54538,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "2962"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.97919835,
         "Lon": 121.5435326,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "2986"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978011,
         "Lon": 121.542478,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "2947"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.974123,
         "Lon": 121.54279,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1165605546"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.97141,
         "Lon": 121.5426501,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "2853"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.967768,
         "Lon": 121.541385,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "2928"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96516884,
         "Lon": 121.5404224,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "2982"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.962441,
         "Lon": 121.539199,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2956"
       },
       {
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "72044"
       },
       {
         "Name": "溪頭",
         "Lat": 24.96083175,
         "Lon": 121.5319036,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "2950"
       },
       {
         "Name": "大坪頂",
         "Lat": 24.96132951,
         "Lon": 121.5298939,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "1001047"
       },
       {
         "Name": "頂城",
         "Lat": 24.961886,
         "Lon": 121.528356,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "1001048"
       },
       {
         "Name": "胡璉故居紀念館",
         "Lat": 24.963037,
         "Lon": 121.526281,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "1001049"
       },
       {
         "Name": "下城社區",
         "Lat": 24.96359615,
         "Lon": 121.5239545,
-        "Sequence": 37
+        "Sequence": 37,
+        "StationID": "1001050"
       },
       {
         "Name": "安華路口",
         "Lat": 24.9639074679223,
         "Lon": 121.52120824524,
-        "Sequence": 38
+        "Sequence": 38,
+        "StationID": "20309"
       },
       {
         "Name": "光華新村(安康路)",
         "Lat": 24.96414395,
         "Lon": 121.5182441,
-        "Sequence": 39
+        "Sequence": 39,
+        "StationID": "1000706"
       },
       {
         "Name": "安康派出所",
         "Lat": 24.963346,
         "Lon": 121.514015,
-        "Sequence": 40
+        "Sequence": 40,
+        "StationID": "2900"
       },
       {
         "Name": "公崙新村(豐榮醫院)",
         "Lat": 24.961978,
         "Lon": 121.512518,
-        "Sequence": 41
+        "Sequence": 41,
+        "StationID": "2876"
       },
       {
         "Name": "浪漫貴族",
         "Lat": 24.95991,
         "Lon": 121.51084,
-        "Sequence": 42
+        "Sequence": 42,
+        "StationID": "2917"
       },
       {
         "Name": "台北菸廠",
         "Lat": 24.95887022,
         "Lon": 121.5084746,
-        "Sequence": 43
+        "Sequence": 43,
+        "StationID": "2886"
       },
       {
         "Name": "安康車子路口",
         "Lat": 24.95808137,
         "Lon": 121.5048646,
-        "Sequence": 44
+        "Sequence": 44,
+        "StationID": "2905"
       },
       {
         "Name": "薏仁坑",
         "Lat": 24.957301,
         "Lon": 121.501307,
-        "Sequence": 45
+        "Sequence": 45,
+        "StationID": "2979"
       },
       {
         "Name": "仁康醫院",
         "Lat": 24.956813,
         "Lon": 121.499692,
-        "Sequence": 46
+        "Sequence": 46,
+        "StationID": "2901"
       },
       {
         "Name": "康樂新村",
         "Lat": 24.95549,
         "Lon": 121.4972383,
-        "Sequence": 47
+        "Sequence": 47,
+        "StationID": "2922"
       },
       {
         "Name": "大茅埔",
         "Lat": 24.954594,
         "Lon": 121.494847,
-        "Sequence": 48
+        "Sequence": 48,
+        "StationID": "2859"
       },
       {
         "Name": "安祥路口",
         "Lat": 24.955756,
         "Lon": 121.491647,
-        "Sequence": 49
+        "Sequence": 49,
+        "StationID": "1001414"
       },
       {
         "Name": "綠中海一期",
         "Lat": 24.960262,
         "Lon": 121.483668,
-        "Sequence": 50
+        "Sequence": 50,
+        "StationID": "72240"
       },
       {
         "Name": "新店站",
         "Lat": 24.96030896,
         "Lon": 121.4834142,
-        "Sequence": 51
+        "Sequence": 51,
+        "StationID": "72232"
       }
     ]
   },
@@ -5388,211 +5492,246 @@
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "72044"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.963158,
         "Lon": 121.53982,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "60071"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96500149,
         "Lon": 121.5405875,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "2981"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.96763873691205,
         "Lon": 121.54161613426882,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "30100"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.971513,
         "Lon": 121.542921,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "30101"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.9753,
         "Lon": 121.5430453,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "30102"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978161,
         "Lon": 121.542795,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "30103"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.979007,
         "Lon": 121.54378,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "60063"
       },
       {
         "Name": "寶橋路口",
         "Lat": 24.976868,
         "Lon": 121.546288,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "2987"
       },
       {
         "Name": "寶橋中興路口一",
         "Lat": 24.97650499,
         "Lon": 121.547757,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "4160"
       },
       {
         "Name": "加油站",
         "Lat": 24.977046,
         "Lon": 121.548731,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1000551"
       },
       {
         "Name": "寶高產業園區",
         "Lat": 24.9786235157248,
         "Lon": 121.551231544066,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1000552"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980335,
         "Lon": 121.55568,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "2461"
       },
       {
         "Name": "木新市場",
         "Lat": 24.98100977,
         "Lon": 121.5583622,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "1000553"
       },
       {
         "Name": "力行國小",
         "Lat": 24.9813802657801,
         "Lon": 121.559783932422,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1000554"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.981856,
         "Lon": 121.561802,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "3993"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982503951501606,
         "Lon": 121.56456790757427,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1000453"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98305,
         "Lon": 121.56636,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "4028"
       },
       {
         "Name": "景文中學",
         "Lat": 24.9837877068618,
         "Lon": 121.568528509552,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "1000540"
       },
       {
         "Name": "木南公園",
         "Lat": 24.985348,
         "Lon": 121.570615,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "50681"
       },
       {
         "Name": "指南路口",
         "Lat": 24.9871941238226,
         "Lon": 121.570722800802,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2426"
       },
       {
         "Name": "政大",
         "Lat": 24.9878362086283,
         "Lon": 121.574633255625,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "2415"
       },
       {
         "Name": "政大一",
         "Lat": 24.988319,
         "Lon": 121.576427,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "1001400"
       },
       {
         "Name": "萬興圖書館",
         "Lat": 24.989020423587586,
         "Lon": 121.57699279565435,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "2520"
       },
       {
         "Name": "大誠高中",
         "Lat": 24.990413,
         "Lon": 121.576905,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "2368"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.991863,
         "Lon": 121.574627,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "50671"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.992819,
         "Lon": 121.573853,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "50669"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9963006246947,
         "Lon": 121.576314002724,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "2443"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99857,
         "Lon": 121.57996,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "50672"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.0028393386766,
         "Lon": 121.583287778248,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "56111"
       },
       {
         "Name": "風動石",
         "Lat": 25.0011783104188,
         "Lon": 121.579255519338,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2429"
       },
       {
         "Name": "信義松仁路口(信義)",
         "Lat": 25.0329497897498,
         "Lon": 121.566687674056,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "6929"
       },
       {
         "Name": "捷運台北101/世貿站(市府)",
         "Lat": 25.034512868313872,
         "Lon": 121.56357599974903,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "2029"
       },
       {
         "Name": "市政府(市府)",
         "Lat": 25.038332,
         "Lon": 121.563754,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "2063"
       },
       {
         "Name": "捷運市政府站",
         "Lat": 25.04100991,
         "Lon": 121.5668354,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "3916"
       }
     ]
   },
@@ -6759,193 +6898,225 @@
         "Name": "消防局(松仁)",
         "Lat": 25.038604,
         "Lon": 121.568284,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1165604593"
       },
       {
         "Name": "興雅國中",
         "Lat": 25.0372323905063,
         "Lon": 121.568268559011,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "2179"
       },
       {
         "Name": "信義松仁路口(松仁)",
         "Lat": 25.0345352489599,
         "Lon": 121.568236043782,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "2121"
       },
       {
         "Name": "風動石",
         "Lat": 25.00102,
         "Lon": 121.57937,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "309"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.00261,
         "Lon": 121.58301,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "2400"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99881,
         "Lon": 121.58021,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "2442"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9968,
         "Lon": 121.576778,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1000436"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.993482,
         "Lon": 121.57363,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "2512"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.99161,
         "Lon": 121.574153,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "2510"
       },
       {
         "Name": "萬興國小",
         "Lat": 24.989679,
         "Lon": 121.576757,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "2519"
       },
       {
         "Name": "政大一",
         "Lat": 24.98782160454249,
         "Lon": 121.57604615193513,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1001409"
       },
       {
         "Name": "新光路口",
         "Lat": 24.9880845060964,
         "Lon": 121.573881732316,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1000854"
       },
       {
         "Name": "指南路口",
         "Lat": 24.986224,
         "Lon": 121.570606,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1000544"
       },
       {
         "Name": "木南公園",
         "Lat": 24.984828,
         "Lon": 121.57011,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "2521"
       },
       {
         "Name": "景文中學",
         "Lat": 24.984131427903375,
         "Lon": 121.56895990914902,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1000522"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98347,
         "Lon": 121.56695,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "4029"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982712452429457,
         "Lon": 121.56460855354919,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2411"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.9820534481377,
         "Lon": 121.561849824052,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "3994"
       },
       {
         "Name": "力行國小",
         "Lat": 24.981733915823476,
         "Lon": 121.56033392387744,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2362"
       },
       {
         "Name": "木新市場",
         "Lat": 24.9811534735698,
         "Lon": 121.558272457788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "2391"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980465,
         "Lon": 121.555554,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2462"
       },
       {
         "Name": "寶高產業園區(寶中路)",
         "Lat": 24.97896,
         "Lon": 121.55006,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20306"
       },
       {
         "Name": "寶中路",
         "Lat": 24.980666,
         "Lon": 121.548333,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "2984"
       },
       {
         "Name": "臺灣銀行",
         "Lat": 24.9794,
         "Lon": 121.54538,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "2962"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.97919835,
         "Lon": 121.5435326,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "2986"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978011,
         "Lon": 121.542478,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "2947"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.974123,
         "Lon": 121.54279,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1165605546"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.97141,
         "Lon": 121.5426501,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "2853"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.967768,
         "Lon": 121.541385,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "2928"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96516884,
         "Lon": 121.5404224,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "2982"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.962441,
         "Lon": 121.539199,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2956"
       },
       {
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "72044"
       }
     ]
   },
@@ -8684,211 +8855,246 @@
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "72044"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.963158,
         "Lon": 121.53982,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "60071"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96500149,
         "Lon": 121.5405875,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "2981"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.96763873691205,
         "Lon": 121.54161613426882,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "30100"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.971513,
         "Lon": 121.542921,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "30101"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.9753,
         "Lon": 121.5430453,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "30102"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978161,
         "Lon": 121.542795,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "30103"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.979007,
         "Lon": 121.54378,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "60063"
       },
       {
         "Name": "寶橋路口",
         "Lat": 24.976868,
         "Lon": 121.546288,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "2987"
       },
       {
         "Name": "寶橋中興路口一",
         "Lat": 24.97650499,
         "Lon": 121.547757,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "4160"
       },
       {
         "Name": "加油站",
         "Lat": 24.977046,
         "Lon": 121.548731,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1000551"
       },
       {
         "Name": "寶高產業園區",
         "Lat": 24.9786235157248,
         "Lon": 121.551231544066,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1000552"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980335,
         "Lon": 121.55568,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "2461"
       },
       {
         "Name": "木新市場",
         "Lat": 24.98100977,
         "Lon": 121.5583622,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "1000553"
       },
       {
         "Name": "力行國小",
         "Lat": 24.9813802657801,
         "Lon": 121.559783932422,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1000554"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.981856,
         "Lon": 121.561802,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "3993"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982503951501606,
         "Lon": 121.56456790757427,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1000453"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98305,
         "Lon": 121.56636,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "4028"
       },
       {
         "Name": "景文中學",
         "Lat": 24.9837877068618,
         "Lon": 121.568528509552,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "1000540"
       },
       {
         "Name": "木南公園",
         "Lat": 24.985348,
         "Lon": 121.570615,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "50681"
       },
       {
         "Name": "指南路口",
         "Lat": 24.9871941238226,
         "Lon": 121.570722800802,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2426"
       },
       {
         "Name": "政大",
         "Lat": 24.9878362086283,
         "Lon": 121.574633255625,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "2415"
       },
       {
         "Name": "政大一",
         "Lat": 24.988319,
         "Lon": 121.576427,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "1001400"
       },
       {
         "Name": "萬興圖書館",
         "Lat": 24.989020423587586,
         "Lon": 121.57699279565435,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "2520"
       },
       {
         "Name": "大誠高中",
         "Lat": 24.990413,
         "Lon": 121.576905,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "2368"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.991863,
         "Lon": 121.574627,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "50671"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.992819,
         "Lon": 121.573853,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "50669"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9963006246947,
         "Lon": 121.576314002724,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "2443"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99857,
         "Lon": 121.57996,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "50672"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.0028393386766,
         "Lon": 121.583287778248,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "56111"
       },
       {
         "Name": "風動石",
         "Lat": 25.0011783104188,
         "Lon": 121.579255519338,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2429"
       },
       {
         "Name": "信義松仁路口(信義)",
         "Lat": 25.0329497897498,
         "Lon": 121.566687674056,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "6929"
       },
       {
         "Name": "捷運台北101/世貿站(市府)",
         "Lat": 25.034512868313872,
         "Lon": 121.56357599974903,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "2029"
       },
       {
         "Name": "市政府(市府)",
         "Lat": 25.038332,
         "Lon": 121.563754,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "2063"
       },
       {
         "Name": "捷運市政府站",
         "Lat": 25.04100991,
         "Lon": 121.5668354,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "3916"
       }
     ]
   },
@@ -10907,307 +11113,358 @@
         "Name": "消防局(松仁)",
         "Lat": 25.038604,
         "Lon": 121.568284,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1165604593"
       },
       {
         "Name": "興雅國中",
         "Lat": 25.0372323905063,
         "Lon": 121.568268559011,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "2179"
       },
       {
         "Name": "信義松仁路口(松仁)",
         "Lat": 25.0345352489599,
         "Lon": 121.568236043782,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "2121"
       },
       {
         "Name": "風動石",
         "Lat": 25.00102,
         "Lon": 121.57937,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "309"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.00261,
         "Lon": 121.58301,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "2400"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99881,
         "Lon": 121.58021,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "2442"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9968,
         "Lon": 121.576778,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1000436"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.993482,
         "Lon": 121.57363,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "2512"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.99161,
         "Lon": 121.574153,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "2510"
       },
       {
         "Name": "萬興國小",
         "Lat": 24.989679,
         "Lon": 121.576757,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "2519"
       },
       {
         "Name": "政大一",
         "Lat": 24.98782160454249,
         "Lon": 121.57604615193513,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1001409"
       },
       {
         "Name": "新光路口",
         "Lat": 24.9880845060964,
         "Lon": 121.573881732316,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1000854"
       },
       {
         "Name": "指南路口",
         "Lat": 24.986224,
         "Lon": 121.570606,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1000544"
       },
       {
         "Name": "木南公園",
         "Lat": 24.984828,
         "Lon": 121.57011,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "2521"
       },
       {
         "Name": "景文中學",
         "Lat": 24.984131427903375,
         "Lon": 121.56895990914902,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1000522"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98347,
         "Lon": 121.56695,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "4029"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982712452429457,
         "Lon": 121.56460855354919,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2411"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.9820534481377,
         "Lon": 121.561849824052,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "3994"
       },
       {
         "Name": "力行國小",
         "Lat": 24.981733915823476,
         "Lon": 121.56033392387744,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2362"
       },
       {
         "Name": "木新市場",
         "Lat": 24.9811534735698,
         "Lon": 121.558272457788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "2391"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980465,
         "Lon": 121.555554,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2462"
       },
       {
         "Name": "寶高產業園區(寶中路)",
         "Lat": 24.97896,
         "Lon": 121.55006,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20306"
       },
       {
         "Name": "寶中路",
         "Lat": 24.980666,
         "Lon": 121.548333,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "2984"
       },
       {
         "Name": "臺灣銀行",
         "Lat": 24.9794,
         "Lon": 121.54538,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "2962"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.97919835,
         "Lon": 121.5435326,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "2986"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978011,
         "Lon": 121.542478,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "2947"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.974123,
         "Lon": 121.54279,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1165605546"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.97141,
         "Lon": 121.5426501,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "2853"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.967768,
         "Lon": 121.541385,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "2928"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96516884,
         "Lon": 121.5404224,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "2982"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.962441,
         "Lon": 121.539199,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2956"
       },
       {
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "72044"
       },
       {
         "Name": "溪頭",
         "Lat": 24.96083175,
         "Lon": 121.5319036,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "2950"
       },
       {
         "Name": "大坪頂",
         "Lat": 24.96132951,
         "Lon": 121.5298939,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "1001047"
       },
       {
         "Name": "頂城",
         "Lat": 24.961886,
         "Lon": 121.528356,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "1001048"
       },
       {
         "Name": "胡璉故居紀念館",
         "Lat": 24.963037,
         "Lon": 121.526281,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "1001049"
       },
       {
         "Name": "下城社區",
         "Lat": 24.96359615,
         "Lon": 121.5239545,
-        "Sequence": 37
+        "Sequence": 37,
+        "StationID": "1001050"
       },
       {
         "Name": "安華路口",
         "Lat": 24.9639074679223,
         "Lon": 121.52120824524,
-        "Sequence": 38
+        "Sequence": 38,
+        "StationID": "20309"
       },
       {
         "Name": "光華新村(安康路)",
         "Lat": 24.96414395,
         "Lon": 121.5182441,
-        "Sequence": 39
+        "Sequence": 39,
+        "StationID": "1000706"
       },
       {
         "Name": "安康派出所",
         "Lat": 24.963346,
         "Lon": 121.514015,
-        "Sequence": 40
+        "Sequence": 40,
+        "StationID": "2900"
       },
       {
         "Name": "公崙新村(豐榮醫院)",
         "Lat": 24.961978,
         "Lon": 121.512518,
-        "Sequence": 41
+        "Sequence": 41,
+        "StationID": "2876"
       },
       {
         "Name": "浪漫貴族",
         "Lat": 24.95991,
         "Lon": 121.51084,
-        "Sequence": 42
+        "Sequence": 42,
+        "StationID": "2917"
       },
       {
         "Name": "台北菸廠",
         "Lat": 24.95887022,
         "Lon": 121.5084746,
-        "Sequence": 43
+        "Sequence": 43,
+        "StationID": "2886"
       },
       {
         "Name": "安康車子路口",
         "Lat": 24.95808137,
         "Lon": 121.5048646,
-        "Sequence": 44
+        "Sequence": 44,
+        "StationID": "2905"
       },
       {
         "Name": "薏仁坑",
         "Lat": 24.957301,
         "Lon": 121.501307,
-        "Sequence": 45
+        "Sequence": 45,
+        "StationID": "2979"
       },
       {
         "Name": "仁康醫院",
         "Lat": 24.956813,
         "Lon": 121.499692,
-        "Sequence": 46
+        "Sequence": 46,
+        "StationID": "2901"
       },
       {
         "Name": "康樂新村",
         "Lat": 24.95549,
         "Lon": 121.4972383,
-        "Sequence": 47
+        "Sequence": 47,
+        "StationID": "2922"
       },
       {
         "Name": "大茅埔",
         "Lat": 24.954594,
         "Lon": 121.494847,
-        "Sequence": 48
+        "Sequence": 48,
+        "StationID": "2859"
       },
       {
         "Name": "安祥路口",
         "Lat": 24.955756,
         "Lon": 121.491647,
-        "Sequence": 49
+        "Sequence": 49,
+        "StationID": "1001414"
       },
       {
         "Name": "綠中海一期",
         "Lat": 24.960262,
         "Lon": 121.483668,
-        "Sequence": 50
+        "Sequence": 50,
+        "StationID": "72240"
       },
       {
         "Name": "新店站",
         "Lat": 24.96030896,
         "Lon": 121.4834142,
-        "Sequence": 51
+        "Sequence": 51,
+        "StationID": "72232"
       }
     ]
   },
@@ -12946,319 +13203,372 @@
         "Name": "新店站",
         "Lat": 24.96030896,
         "Lon": 121.4834142,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "72232"
       },
       {
         "Name": "安祥路口",
         "Lat": 24.9554,
         "Lon": 121.491777,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "2902"
       },
       {
         "Name": "大茅埔",
         "Lat": 24.95431753,
         "Lon": 121.4946626,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1000380"
       },
       {
         "Name": "康樂新村",
         "Lat": 24.955162,
         "Lon": 121.496698,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1000381"
       },
       {
         "Name": "仁康醫院",
         "Lat": 24.956348,
         "Lon": 121.499054,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "3983"
       },
       {
         "Name": "薏仁坑",
         "Lat": 24.95733611,
         "Lon": 121.502106,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "3982"
       },
       {
         "Name": "安康車子路口",
         "Lat": 24.958027,
         "Lon": 121.505929,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "3984"
       },
       {
         "Name": "台北菸廠",
         "Lat": 24.959017,
         "Lon": 121.509284,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "2887"
       },
       {
         "Name": "浪漫貴族",
         "Lat": 24.960016,
         "Lon": 121.511483,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1000401"
       },
       {
         "Name": "公崙新村(豐榮醫院)",
         "Lat": 24.962041,
         "Lon": 121.512648,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1000402"
       },
       {
         "Name": "安康派出所",
         "Lat": 24.963642,
         "Lon": 121.515311,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1000403"
       },
       {
         "Name": "光華新村(安康路)",
         "Lat": 24.963936,
         "Lon": 121.517942,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "2896"
       },
       {
         "Name": "安華路口",
         "Lat": 24.9637050292789,
         "Lon": 121.521365324681,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "20310"
       },
       {
         "Name": "下城社區",
         "Lat": 24.96347353,
         "Lon": 121.5235251,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "2858"
       },
       {
         "Name": "胡璉故居紀念館",
         "Lat": 24.962917,
         "Lon": 121.52598,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "2857"
       },
       {
         "Name": "頂城",
         "Lat": 24.961725,
         "Lon": 121.528339,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "2934"
       },
       {
         "Name": "大坪頂",
         "Lat": 24.961041,
         "Lon": 121.530152,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2855"
       },
       {
         "Name": "溪頭",
         "Lat": 24.960256,
         "Lon": 121.532361,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "2679"
       },
       {
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "72044"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.963158,
         "Lon": 121.53982,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "60071"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96500149,
         "Lon": 121.5405875,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2981"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.96763873691205,
         "Lon": 121.54161613426882,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "30100"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.971513,
         "Lon": 121.542921,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "30101"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.9753,
         "Lon": 121.5430453,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "30102"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978161,
         "Lon": 121.542795,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "30103"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.979007,
         "Lon": 121.54378,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "60063"
       },
       {
         "Name": "寶橋路口",
         "Lat": 24.976868,
         "Lon": 121.546288,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "2987"
       },
       {
         "Name": "寶橋中興路口一",
         "Lat": 24.97650499,
         "Lon": 121.547757,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "4160"
       },
       {
         "Name": "加油站",
         "Lat": 24.977046,
         "Lon": 121.548731,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "1000551"
       },
       {
         "Name": "寶高產業園區",
         "Lat": 24.9786235157248,
         "Lon": 121.551231544066,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1000552"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980335,
         "Lon": 121.55568,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2461"
       },
       {
         "Name": "木新市場",
         "Lat": 24.98100977,
         "Lon": 121.5583622,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "1000553"
       },
       {
         "Name": "力行國小",
         "Lat": 24.9813802657801,
         "Lon": 121.559783932422,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "1000554"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.981856,
         "Lon": 121.561802,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "3993"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982503951501606,
         "Lon": 121.56456790757427,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "1000453"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98305,
         "Lon": 121.56636,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "4028"
       },
       {
         "Name": "景文中學",
         "Lat": 24.9837877068618,
         "Lon": 121.568528509552,
-        "Sequence": 37
+        "Sequence": 37,
+        "StationID": "1000540"
       },
       {
         "Name": "木南公園",
         "Lat": 24.985348,
         "Lon": 121.570615,
-        "Sequence": 38
+        "Sequence": 38,
+        "StationID": "50681"
       },
       {
         "Name": "指南路口",
         "Lat": 24.9871941238226,
         "Lon": 121.570722800802,
-        "Sequence": 39
+        "Sequence": 39,
+        "StationID": "2426"
       },
       {
         "Name": "政大",
         "Lat": 24.9878362086283,
         "Lon": 121.574633255625,
-        "Sequence": 40
+        "Sequence": 40,
+        "StationID": "2415"
       },
       {
         "Name": "政大一",
         "Lat": 24.988319,
         "Lon": 121.576427,
-        "Sequence": 41
+        "Sequence": 41,
+        "StationID": "1001400"
       },
       {
         "Name": "萬興圖書館",
         "Lat": 24.989020423587586,
         "Lon": 121.57699279565435,
-        "Sequence": 42
+        "Sequence": 42,
+        "StationID": "2520"
       },
       {
         "Name": "大誠高中",
         "Lat": 24.990413,
         "Lon": 121.576905,
-        "Sequence": 43
+        "Sequence": 43,
+        "StationID": "2368"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.991863,
         "Lon": 121.574627,
-        "Sequence": 44
+        "Sequence": 44,
+        "StationID": "50671"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.992819,
         "Lon": 121.573853,
-        "Sequence": 45
+        "Sequence": 45,
+        "StationID": "50669"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9963006246947,
         "Lon": 121.576314002724,
-        "Sequence": 46
+        "Sequence": 46,
+        "StationID": "2443"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99857,
         "Lon": 121.57996,
-        "Sequence": 47
+        "Sequence": 47,
+        "StationID": "50672"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.0028393386766,
         "Lon": 121.583287778248,
-        "Sequence": 48
+        "Sequence": 48,
+        "StationID": "56111"
       },
       {
         "Name": "風動石",
         "Lat": 25.0011783104188,
         "Lon": 121.579255519338,
-        "Sequence": 49
+        "Sequence": 49,
+        "StationID": "2429"
       },
       {
         "Name": "信義松仁路口(信義)",
         "Lat": 25.0329497897498,
         "Lon": 121.566687674056,
-        "Sequence": 50
+        "Sequence": 50,
+        "StationID": "6929"
       },
       {
         "Name": "捷運台北101/世貿站(市府)",
         "Lat": 25.034512868313872,
         "Lon": 121.56357599974903,
-        "Sequence": 51
+        "Sequence": 51,
+        "StationID": "2029"
       },
       {
         "Name": "市政府(市府)",
         "Lat": 25.038332,
         "Lon": 121.563754,
-        "Sequence": 52
+        "Sequence": 52,
+        "StationID": "2063"
       },
       {
         "Name": "捷運市政府站",
         "Lat": 25.04100991,
         "Lon": 121.5668354,
-        "Sequence": 53
+        "Sequence": 53,
+        "StationID": "3916"
       }
     ]
   },
@@ -15277,193 +15587,225 @@
         "Name": "消防局(松仁)",
         "Lat": 25.038604,
         "Lon": 121.568284,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1165604593"
       },
       {
         "Name": "興雅國中",
         "Lat": 25.0372323905063,
         "Lon": 121.568268559011,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "2179"
       },
       {
         "Name": "信義松仁路口(松仁)",
         "Lat": 25.0345352489599,
         "Lon": 121.568236043782,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "2121"
       },
       {
         "Name": "風動石",
         "Lat": 25.00102,
         "Lon": 121.57937,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "309"
       },
       {
         "Name": "石壁坑",
         "Lat": 25.00261,
         "Lon": 121.58301,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "2400"
       },
       {
         "Name": "捷運動物園站",
         "Lat": 24.99881,
         "Lon": 121.58021,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "2442"
       },
       {
         "Name": "貓纜動物園站",
         "Lat": 24.9968,
         "Lon": 121.576778,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1000436"
       },
       {
         "Name": "萬壽橋頭(新光)",
         "Lat": 24.993482,
         "Lon": 121.57363,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "2512"
       },
       {
         "Name": "萬壽橋頭(秀明)",
         "Lat": 24.99161,
         "Lon": 121.574153,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "2510"
       },
       {
         "Name": "萬興國小",
         "Lat": 24.989679,
         "Lon": 121.576757,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "2519"
       },
       {
         "Name": "政大一",
         "Lat": 24.98782160454249,
         "Lon": 121.57604615193513,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1001409"
       },
       {
         "Name": "新光路口",
         "Lat": 24.9880845060964,
         "Lon": 121.573881732316,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1000854"
       },
       {
         "Name": "指南路口",
         "Lat": 24.986224,
         "Lon": 121.570606,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1000544"
       },
       {
         "Name": "木南公園",
         "Lat": 24.984828,
         "Lon": 121.57011,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "2521"
       },
       {
         "Name": "景文中學",
         "Lat": 24.984131427903375,
         "Lon": 121.56895990914902,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1000522"
       },
       {
         "Name": "司法新村",
         "Lat": 24.98347,
         "Lon": 121.56695,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "4029"
       },
       {
         "Name": "忠順廟",
         "Lat": 24.982712452429457,
         "Lon": 121.56460855354919,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "2411"
       },
       {
         "Name": "國泰新村(木新)",
         "Lat": 24.9820534481377,
         "Lon": 121.561849824052,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "3994"
       },
       {
         "Name": "力行國小",
         "Lat": 24.981733915823476,
         "Lon": 121.56033392387744,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "2362"
       },
       {
         "Name": "木新市場",
         "Lat": 24.9811534735698,
         "Lon": 121.558272457788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "2391"
       },
       {
         "Name": "景美女中",
         "Lat": 24.980465,
         "Lon": 121.555554,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "2462"
       },
       {
         "Name": "寶高產業園區(寶中路)",
         "Lat": 24.97896,
         "Lon": 121.55006,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20306"
       },
       {
         "Name": "寶中路",
         "Lat": 24.980666,
         "Lon": 121.548333,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "2984"
       },
       {
         "Name": "臺灣銀行",
         "Lat": 24.9794,
         "Lon": 121.54538,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "2962"
       },
       {
         "Name": "寶強路口",
         "Lat": 24.97919835,
         "Lon": 121.5435326,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "2986"
       },
       {
         "Name": "新店郵局",
         "Lat": 24.978011,
         "Lon": 121.542478,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "2947"
       },
       {
         "Name": "捷運七張站",
         "Lat": 24.974123,
         "Lon": 121.54279,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1165605546"
       },
       {
         "Name": "七張(北新路)",
         "Lat": 24.97141,
         "Lon": 121.5426501,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "2853"
       },
       {
         "Name": "捷運新店區公所站(北新)",
         "Lat": 24.967768,
         "Lon": 121.541385,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "2928"
       },
       {
         "Name": "檳榔路",
         "Lat": 24.96516884,
         "Lon": 121.5404224,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "2982"
       },
       {
         "Name": "碧潭橋頭",
         "Lat": 24.962441,
         "Lon": 121.539199,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "2956"
       },
       {
         "Name": "捷運新店站(新店路)",
         "Lat": 24.958392,
         "Lon": 121.53755,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "72044"
       }
     ]
   }

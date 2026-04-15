@@ -1022,385 +1022,449 @@
         "Name": "西盛",
         "Lat": 25.019241,
         "Lon": 121.433249,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "3534"
       },
       {
         "Name": "東方之星",
         "Lat": 25.01508972,
         "Lon": 121.4326327,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "30018"
       },
       {
         "Name": "西盛館",
         "Lat": 25.013078,
         "Lon": 121.432578,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "3536"
       },
       {
         "Name": "家麒新天地",
         "Lat": 25.010087,
         "Lon": 121.432644,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "3535"
       },
       {
         "Name": "正豐",
         "Lat": 25.007493,
         "Lon": 121.432786,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "3528"
       },
       {
         "Name": "大唐江山",
         "Lat": 25.007867,
         "Lon": 121.431869,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "30032"
       },
       {
         "Name": "民安西路403巷口",
         "Lat": 25.009369,
         "Lon": 121.4299139,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "30031"
       },
       {
         "Name": "光華街口",
         "Lat": 25.01056501,
         "Lon": 121.4284024,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "30030"
       },
       {
         "Name": "新寶社區",
         "Lat": 25.01254806,
         "Lon": 121.4263087,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "30029"
       },
       {
         "Name": "光明里",
         "Lat": 25.01453194,
         "Lon": 121.4260504,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "30028"
       },
       {
         "Name": "光華國小(民安西路)",
         "Lat": 25.016748,
         "Lon": 121.426301,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "30044"
       },
       {
         "Name": "福祿新城一",
         "Lat": 25.018631,
         "Lon": 121.426917,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "30041"
       },
       {
         "Name": "福祿新城二",
         "Lat": 25.02033,
         "Lon": 121.427412,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "30008"
       },
       {
         "Name": "民安陸橋",
         "Lat": 25.022571,
         "Lon": 121.426146,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "30012"
       },
       {
         "Name": "民安路",
         "Lat": 25.024026,
         "Lon": 121.425221,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "1000432"
       },
       {
         "Name": "後港社區",
         "Lat": 25.025331,
         "Lon": 121.424195,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "3550"
       },
       {
         "Name": "建福路口",
         "Lat": 25.02637,
         "Lon": 121.426468,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "30010"
       },
       {
         "Name": "建安街口",
         "Lat": 25.027305,
         "Lon": 121.429575,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "30023"
       },
       {
         "Name": "後港一路",
         "Lat": 25.02798,
         "Lon": 121.432011,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "3548"
       },
       {
         "Name": "建國一路",
         "Lat": 25.030458,
         "Lon": 121.434521,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "50617"
       },
       {
         "Name": "捷運輔大站(建國一路)",
         "Lat": 25.031677,
         "Lon": 121.4339717,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "4093"
       },
       {
         "Name": "捷運輔大站",
         "Lat": 25.032612,
         "Lon": 121.435466,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "30001"
       },
       {
         "Name": "盲人重建院",
         "Lat": 25.033904,
         "Lon": 121.442607,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "50616"
       },
       {
         "Name": "公園一路",
         "Lat": 25.0357,
         "Lon": 121.44336,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "3560"
       },
       {
         "Name": "新泰國小(新泰公園)",
         "Lat": 25.03794,
         "Lon": 121.44497,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "3562"
       },
       {
         "Name": "材試所",
         "Lat": 25.039479,
         "Lon": 121.446462,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "1000782"
       },
       {
         "Name": "新泰國中南站",
         "Lat": 25.040714,
         "Lon": 121.445653,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1000783"
       },
       {
         "Name": "中平路",
         "Lat": 25.045135,
         "Lon": 121.444889,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "50609"
       },
       {
         "Name": "新莊高中",
         "Lat": 25.04801,
         "Lon": 121.444915628617,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "20397"
       },
       {
         "Name": "新莊高中(幸福路)",
         "Lat": 25.0490066229995,
         "Lon": 121.445379037224,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "8207"
       },
       {
         "Name": "中和街口",
         "Lat": 25.049077,
         "Lon": 121.448561,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "3500"
       },
       {
         "Name": "中港",
         "Lat": 25.0491543957239,
         "Lon": 121.451369639862,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "3507"
       },
       {
         "Name": "幸福中華路口",
         "Lat": 25.049192,
         "Lon": 121.453486,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "3539"
       },
       {
         "Name": "幸福新城",
         "Lat": 25.049301,
         "Lon": 121.456008,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "3541"
       },
       {
         "Name": "幸福思源路口",
         "Lat": 25.049369,
         "Lon": 121.457859,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "1000788"
       },
       {
         "Name": "捷運幸福站(幸福東路)",
         "Lat": 25.049397,
         "Lon": 121.461247,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "5023"
       },
       {
         "Name": "化成路口",
         "Lat": 25.0493263177027,
         "Lon": 121.465090730522,
-        "Sequence": 37
+        "Sequence": 37,
+        "StationID": "50615"
       },
       {
         "Name": "頭前里",
         "Lat": 25.05098383,
         "Lon": 121.4660724,
-        "Sequence": 38
+        "Sequence": 38,
+        "StationID": "1000775"
       },
       {
         "Name": "頭前國小",
         "Lat": 25.053343,
         "Lon": 121.466381,
-        "Sequence": 39
+        "Sequence": 39,
+        "StationID": "1000777"
       },
       {
         "Name": "善導庵",
         "Lat": 25.05527,
         "Lon": 121.46607,
-        "Sequence": 40
+        "Sequence": 40,
+        "StationID": "30050"
       },
       {
         "Name": "頭前庄",
         "Lat": 25.05779469,
         "Lon": 121.4655436,
-        "Sequence": 41
+        "Sequence": 41,
+        "StationID": "30046"
       },
       {
         "Name": "新北大道化成路口",
         "Lat": 25.061164,
         "Lon": 121.465274,
-        "Sequence": 42
+        "Sequence": 42,
+        "StationID": "1000842"
       },
       {
         "Name": "新北大道中興路口",
         "Lat": 25.0613446467768,
         "Lon": 121.468148097399,
-        "Sequence": 43
+        "Sequence": 43,
+        "StationID": "3495"
       },
       {
         "Name": "新北大道中華路口",
         "Lat": 25.0613696251157,
         "Lon": 121.483061607875,
-        "Sequence": 44
+        "Sequence": 44,
+        "StationID": "3978"
       },
       {
         "Name": "三重區公所(新北大道)",
         "Lat": 25.061249,
         "Lon": 121.48857,
-        "Sequence": 45
+        "Sequence": 45,
+        "StationID": "13210"
       },
       {
         "Name": "聯合醫院(三重院區)",
         "Lat": 25.0612882442498,
         "Lon": 121.490767288608,
-        "Sequence": 46
+        "Sequence": 46,
+        "StationID": "13209"
       },
       {
         "Name": "大同路口",
         "Lat": 25.061403,
         "Lon": 121.49493,
-        "Sequence": 47
+        "Sequence": 47,
+        "StationID": "3387"
       },
       {
         "Name": "天台廣場",
         "Lat": 25.062277,
         "Lon": 121.498323,
-        "Sequence": 48
+        "Sequence": 48,
+        "StationID": "1000843"
       },
       {
         "Name": "捷運台北橋站",
         "Lat": 25.063054,
         "Lon": 121.50044,
-        "Sequence": 49
+        "Sequence": 49,
+        "StationID": "60059"
       },
       {
         "Name": "三重派出所(重新路)",
         "Lat": 25.0636037876107,
         "Lon": 121.501898428168,
-        "Sequence": 50
+        "Sequence": 50,
+        "StationID": "20263"
       },
       {
         "Name": "捷運民權西路站",
         "Lat": 25.0628480067,
         "Lon": 121.5178677888,
-        "Sequence": 51
+        "Sequence": 51,
+        "StationID": "1000398"
       },
       {
         "Name": "防癆協會",
         "Lat": 25.06357,
         "Lon": 121.51846,
-        "Sequence": 52
+        "Sequence": 52,
+        "StationID": "1435"
       },
       {
         "Name": "大同國小",
         "Lat": 25.06632905,
         "Lon": 121.5185171,
-        "Sequence": 53
+        "Sequence": 53,
+        "StationID": "10205"
       },
       {
         "Name": "民族承德路口",
         "Lat": 25.06894017,
         "Lon": 121.5185487,
-        "Sequence": 54
+        "Sequence": 54,
+        "StationID": "10206"
       },
       {
         "Name": "庫倫街口",
         "Lat": 25.0725860525549,
         "Lon": 121.519041158328,
-        "Sequence": 55
+        "Sequence": 55,
+        "StationID": "1453"
       },
       {
         "Name": "明倫高中",
         "Lat": 25.0742494,
         "Lon": 121.5199745,
-        "Sequence": 56
+        "Sequence": 56,
+        "StationID": "1000169"
       },
       {
         "Name": "劍潭國小",
         "Lat": 25.08106627,
         "Lon": 121.5227513,
-        "Sequence": 57
+        "Sequence": 57,
+        "StationID": "10207"
       },
       {
         "Name": "圓山皇宮大廈",
         "Lat": 25.08335644,
         "Lon": 121.523596,
-        "Sequence": 58
+        "Sequence": 58,
+        "StationID": "1000114"
       },
       {
         "Name": "大南路口",
         "Lat": 25.08804,
         "Lon": 121.52227,
-        "Sequence": 59
+        "Sequence": 59,
+        "StationID": "593"
       },
       {
         "Name": "士商路",
         "Lat": 25.091,
         "Lon": 121.51989,
-        "Sequence": 60
+        "Sequence": 60,
+        "StationID": "597"
       },
       {
         "Name": "士林區行政中心(中正)",
         "Lat": 25.092636,
         "Lon": 121.519189,
-        "Sequence": 61
+        "Sequence": 61,
+        "StationID": "581"
       },
       {
         "Name": "士林國中",
         "Lat": 25.0946048451863,
         "Lon": 121.52330153373,
-        "Sequence": 62
+        "Sequence": 62,
+        "StationID": "586"
       },
       {
         "Name": "士林國小",
         "Lat": 25.094058815207,
         "Lon": 121.524789386925,
-        "Sequence": 63
+        "Sequence": 63,
+        "StationID": "5040"
       },
       {
         "Name": "小北街",
         "Lat": 25.090999,
         "Lon": 121.526725,
-        "Sequence": 64
+        "Sequence": 64,
+        "StationID": "1165604808"
       }
     ]
   },
@@ -2315,355 +2379,414 @@
         "Name": "捷運劍潭站(北藝中心)",
         "Lat": 25.084849,
         "Lon": 121.524748,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1000170"
       },
       {
         "Name": "圓山皇宮大廈",
         "Lat": 25.08346835,
         "Lon": 121.5233264,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "863"
       },
       {
         "Name": "劍潭國小",
         "Lat": 25.08105624,
         "Lon": 121.5223096,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "919"
       },
       {
         "Name": "明倫高中",
         "Lat": 25.07344017,
         "Lon": 121.5191524,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1442"
       },
       {
         "Name": "庫倫街口",
         "Lat": 25.07106623,
         "Lon": 121.5183341,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "16205"
       },
       {
         "Name": "民族承德路口",
         "Lat": 25.0679133670728,
         "Lon": 121.518267306546,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "1424"
       },
       {
         "Name": "大同國小",
         "Lat": 25.06487427,
         "Lon": 121.5181,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1401"
       },
       {
         "Name": "民權大龍街口",
         "Lat": 25.062976,
         "Lon": 121.516467,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1427"
       },
       {
         "Name": "三重派出所(重新路)",
         "Lat": 25.063667,
         "Lon": 121.501606,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "3488"
       },
       {
         "Name": "捷運台北橋站",
         "Lat": 25.06321,
         "Lon": 121.500403,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "13200"
       },
       {
         "Name": "天台廣場",
         "Lat": 25.061930885,
         "Lon": 121.496784994,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "3452"
       },
       {
         "Name": "大同路口",
         "Lat": 25.0614913406773,
         "Lon": 121.494254721567,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1000149"
       },
       {
         "Name": "聯合醫院(三重院區)",
         "Lat": 25.06145,
         "Lon": 121.49077,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "13212"
       },
       {
         "Name": "三重區公所(新北大道)",
         "Lat": 25.061474,
         "Lon": 121.488152,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "3394"
       },
       {
         "Name": "新北大道中華路口",
         "Lat": 25.061616,
         "Lon": 121.483074,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "3979"
       },
       {
         "Name": "新北大道重光街口",
         "Lat": 25.0616455497332,
         "Lon": 121.466776101293,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "3494"
       },
       {
         "Name": "化成新北大道路口",
         "Lat": 25.059503,
         "Lon": 121.464999,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1000778"
       },
       {
         "Name": "頭前庄",
         "Lat": 25.05756729,
         "Lon": 121.465415,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "3594"
       },
       {
         "Name": "善導庵",
         "Lat": 25.0558,
         "Lon": 121.46593,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "3555"
       },
       {
         "Name": "頭前國小",
         "Lat": 25.05281393,
         "Lon": 121.466189,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "3597"
       },
       {
         "Name": "頭前里",
         "Lat": 25.05106,
         "Lon": 121.46599,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "3595"
       },
       {
         "Name": "化成路口",
         "Lat": 25.049453,
         "Lon": 121.464816,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "3515"
       },
       {
         "Name": "捷運幸福站(幸福東路)",
         "Lat": 25.049554,
         "Lon": 121.461182,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "5024"
       },
       {
         "Name": "幸福思源路口",
         "Lat": 25.04948317165274,
         "Lon": 121.45786333734011,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "3540"
       },
       {
         "Name": "幸福新城",
         "Lat": 25.049416,
         "Lon": 121.455669,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "58061"
       },
       {
         "Name": "幸福中華路口",
         "Lat": 25.04932385,
         "Lon": 121.4533855,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "50612"
       },
       {
         "Name": "中港",
         "Lat": 25.0492912897265,
         "Lon": 121.451623157219,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "30035"
       },
       {
         "Name": "中和街口",
         "Lat": 25.049202,
         "Lon": 121.448824,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "8208"
       },
       {
         "Name": "新莊高中(幸福路)",
         "Lat": 25.049113403307,
         "Lon": 121.445371964966,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "3572"
       },
       {
         "Name": "新莊高中",
         "Lat": 25.04788846,
         "Lon": 121.4447176,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "20396"
       },
       {
         "Name": "中平路",
         "Lat": 25.044624,
         "Lon": 121.444642,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "3498"
       },
       {
         "Name": "新泰復興路口",
         "Lat": 25.041705,
         "Lon": 121.444856,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "3564"
       },
       {
         "Name": "材試所",
         "Lat": 25.039119,
         "Lon": 121.446484,
-        "Sequence": 33
+        "Sequence": 33,
+        "StationID": "3538"
       },
       {
         "Name": "新泰國小(新泰公園)",
         "Lat": 25.03803,
         "Lon": 121.44452,
-        "Sequence": 34
+        "Sequence": 34,
+        "StationID": "1001377"
       },
       {
         "Name": "公園一路",
         "Lat": 25.035662,
         "Lon": 121.443206,
-        "Sequence": 35
+        "Sequence": 35,
+        "StationID": "50603"
       },
       {
         "Name": "盲人重建院",
         "Lat": 25.0337008431394,
         "Lon": 121.440631678538,
-        "Sequence": 36
+        "Sequence": 36,
+        "StationID": "3543"
       },
       {
         "Name": "捷運輔大站",
         "Lat": 25.032897,
         "Lon": 121.4359666,
-        "Sequence": 37
+        "Sequence": 37,
+        "StationID": "73659"
       },
       {
         "Name": "捷運輔大站(建國一路)",
         "Lat": 25.031472,
         "Lon": 121.43385,
-        "Sequence": 38
+        "Sequence": 38,
+        "StationID": "3588"
       },
       {
         "Name": "建國一路",
         "Lat": 25.02983961,
         "Lon": 121.4345539,
-        "Sequence": 39
+        "Sequence": 39,
+        "StationID": "3546"
       },
       {
         "Name": "後港一路",
         "Lat": 25.02821,
         "Lon": 121.43251,
-        "Sequence": 40
+        "Sequence": 40,
+        "StationID": "30024"
       },
       {
         "Name": "建安街口",
         "Lat": 25.027147,
         "Lon": 121.428706,
-        "Sequence": 41
+        "Sequence": 41,
+        "StationID": "3545"
       },
       {
         "Name": "建福路口",
         "Lat": 25.026331,
         "Lon": 121.426119,
-        "Sequence": 42
+        "Sequence": 42,
+        "StationID": "3547"
       },
       {
         "Name": "後港社區",
         "Lat": 25.02585,
         "Lon": 121.42461,
-        "Sequence": 43
+        "Sequence": 43,
+        "StationID": "3549"
       },
       {
         "Name": "民安路",
         "Lat": 25.02401714,
         "Lon": 121.4250914,
-        "Sequence": 44
+        "Sequence": 44,
+        "StationID": "3525"
       },
       {
         "Name": "民安陸橋",
         "Lat": 25.02243361,
         "Lon": 121.4261035,
-        "Sequence": 45
+        "Sequence": 45,
+        "StationID": "3524"
       },
       {
         "Name": "福祿新城二",
         "Lat": 25.02045611,
         "Lon": 121.4272815,
-        "Sequence": 46
+        "Sequence": 46,
+        "StationID": "3586"
       },
       {
         "Name": "福祿新城一",
         "Lat": 25.01873861,
         "Lon": 121.4268159,
-        "Sequence": 47
+        "Sequence": 47,
+        "StationID": "3585"
       },
       {
         "Name": "光華國小(民安西路)",
         "Lat": 25.01724,
         "Lon": 121.42625,
-        "Sequence": 48
+        "Sequence": 48,
+        "StationID": "30045"
       },
       {
         "Name": "光明里",
         "Lat": 25.01439,
         "Lon": 121.4258116,
-        "Sequence": 49
+        "Sequence": 49,
+        "StationID": "3529"
       },
       {
         "Name": "新寶社區",
         "Lat": 25.01268166,
         "Lon": 121.4260776,
-        "Sequence": 50
+        "Sequence": 50,
+        "StationID": "3582"
       },
       {
         "Name": "光華街口",
         "Lat": 25.010583,
         "Lon": 121.428101,
-        "Sequence": 51
+        "Sequence": 51,
+        "StationID": "3532"
       },
       {
         "Name": "民安西路403巷口",
         "Lat": 25.009224,
         "Lon": 121.429871,
-        "Sequence": 52
+        "Sequence": 52,
+        "StationID": "3521"
       },
       {
         "Name": "大唐江山",
         "Lat": 25.007896,
         "Lon": 121.431591,
-        "Sequence": 53
+        "Sequence": 53,
+        "StationID": "3492"
       },
       {
         "Name": "正豐",
         "Lat": 25.007876,
         "Lon": 121.432929,
-        "Sequence": 54
+        "Sequence": 54,
+        "StationID": "30013"
       },
       {
         "Name": "西盛一",
         "Lat": 25.00947,
         "Lon": 121.432866,
-        "Sequence": 55
+        "Sequence": 55,
+        "StationID": "73693"
       },
       {
         "Name": "家麒新天地",
         "Lat": 25.010698,
         "Lon": 121.432869,
-        "Sequence": 56
+        "Sequence": 56,
+        "StationID": "30014"
       },
       {
         "Name": "西盛館",
         "Lat": 25.01294458,
         "Lon": 121.4327276,
-        "Sequence": 57
+        "Sequence": 57,
+        "StationID": "30015"
       },
       {
         "Name": "東方之星",
         "Lat": 25.015233,
         "Lon": 121.432839,
-        "Sequence": 58
+        "Sequence": 58,
+        "StationID": "30016"
       },
       {
         "Name": "西盛",
         "Lat": 25.01986167,
         "Lon": 121.4337502,
-        "Sequence": 59
+        "Sequence": 59,
+        "StationID": "30017"
       }
     ]
   }

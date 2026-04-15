@@ -10,16 +10,6 @@ currentLine=null
 //start=null
 routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","542","小7"];
 currentStops=L.layerGroup().addTo(map)
-// greenIcon = L.icon({
-//     iconUrl: 'diamond.png',
-
-//     iconSize:     [38, 38], // size of the icon
-//     //shadowSize:   [50, 64], // size of the shadow
-//     //iconAnchor:   [22, 22], // point of the icon which will correspond to marker's location
-//     //shadowAnchor: [4, 62],  // the same for the shadow
-//     //popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
-// });
-
 
 routeList.forEach(route=>{
     const btn=document.createElement("button");
@@ -34,7 +24,7 @@ function yesyes(){
 }
 
 function showMenu(route){
-    fetch(`https://BrandNewCoffee.github.io/bus-data/data/shape/shape_${route}.json`)
+    fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${route}.json`)
     .then(res=>res.json())
     .then(data=>{
         let menu=document.querySelector("#shapeMenu");
@@ -43,29 +33,19 @@ function showMenu(route){
             const btn=document.createElement("button");
             btn.textContent=`${subRoute.SubRoute}(${subRoute.Direction})`;
             btn.classList.add("button");
-            btn.addEventListener("click",()=>shape(route,subRoute.SubRoute,subRoute.Direction));
+            btn.addEventListener("click",()=>showRoute(route,subRoute.SubRoute,subRoute.Direction));
             shapeMenu.appendChild(btn);
-        })
-    })
-
-    fetch(`https://BrandNewCoffee.github.io/bus-data/data/stops/stops_${route}.json`)
-    .then(res=>res.json())
-    .then(data=>{
-        let menu=document.querySelector("#stopsMenu");
-        menu.innerHTML="";
-        data.forEach(subRoute=>{
-            const btn=document.createElement("button");
-            btn.textContent=`${subRoute.SubRoute}(${subRoute.Direction})`;
-            btn.classList.add("button");
-            btn.addEventListener("click",()=>stops(route,subRoute.SubRoute,subRoute.Direction));
-            stopsMenu.appendChild(btn);
         })
     })
 }
 
+function showRoute(r,s,d){
+    stops(r,s,d);
+    shape(r,s,d);
+}
 
 function stops(r,s,d){
-    fetch(`https://BrandNewCoffee.github.io/bus-data/data/stops/stops_${r}.json`)
+    fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${r}.json`)
     .then(res => res.json())
     .then(data=>{
         data.forEach(subRoute=>{
@@ -82,7 +62,7 @@ function stops(r,s,d){
 }
 
 function shape(r,s,d){
-    fetch(`https://BrandNewCoffee.github.io/bus-data/data/shape/shape_${r}.json`)
+    fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${r}.json`)
     .then(res=>res.json())
     .then(data=>{
         if(currentLine){map.removeLayer(currentLine)};
@@ -97,4 +77,4 @@ function shape(r,s,d){
         });
     });
 };
-//stops();
+

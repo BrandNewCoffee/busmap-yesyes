@@ -5,12 +5,16 @@ access_token=""
 headers = {
     "authorization": f"Bearer {access_token}"
 }
-routeList=["小7","542","234","南環幹線","205","618","民權幹線"]
+routeList=["紅25",
+  "藍36",
+  "南京幹線",
+  "內科通勤專車22",
+  "紅33"]
 
 def get_data(url):
   response = requests.get(url, headers=headers)
   print(response.status_code)   # 通常是 200 表示成功
-  time.sleep(5)
+  time.sleep(1)
   if response.status_code!=200:
       print(response.text)
       return None
@@ -35,7 +39,8 @@ for route in routeList:
                 "Name": stop["StopName"]["Zh_tw"],
                 "Lat": stop["StopPosition"]["PositionLat"],
                 "Lon": stop["StopPosition"]["PositionLon"],
-                "Sequence": stop["StopSequence"]
+                "Sequence": stop["StopSequence"],
+                "StationID":stop["StationID"]
             })
 
         map_data.append(route_info)

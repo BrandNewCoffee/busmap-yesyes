@@ -1,153 +1,176 @@
 [
   {
     "Route": "542",
-    "SubRoute": "542",
+    "SubRoute": "542路",
     "Direction": 0,
     "Stops": [
       {
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1462"
       },
       {
         "Name": "花博公園",
         "Lat": 25.06836964371407,
         "Lon": 121.5219958317649,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1406"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06834316,
         "Lon": 121.5242636,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1000901"
       },
       {
         "Name": "吉林路底",
         "Lat": 25.0671439681624,
         "Lon": 121.530399427523,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1251"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06478877,
         "Lon": 121.5306207,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1378"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06471,
         "Lon": 121.53409,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "1192"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06585474,
         "Lon": 121.5368048,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1208"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06605,
         "Lon": 121.53905,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1396"
       },
       {
         "Name": "復興北村",
         "Lat": 25.06497867,
         "Lon": 121.5441547,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1348"
       },
       {
         "Name": "五常街口",
         "Lat": 25.06369319,
         "Lon": 121.5440531,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "6989"
       },
       {
         "Name": "捷運中山國中站",
         "Lat": 25.06148096,
         "Lon": 121.5440343,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1574"
       }
     ]
   },
   {
     "Route": "542",
-    "SubRoute": "542",
+    "SubRoute": "542路",
     "Direction": 1,
     "Stops": [
       {
         "Name": "龍江路口",
         "Lat": 25.06090008,
         "Lon": 121.5408185,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1395"
       },
       {
         "Name": "五常國小",
         "Lat": 25.06401,
         "Lon": 121.54096,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1197"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06611465,
         "Lon": 121.5394645,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "3986"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06614272,
         "Lon": 121.5370488,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1210"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06481353,
         "Lon": 121.5336228,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "16266"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06487895,
         "Lon": 121.5306212,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "16260"
       },
       {
         "Name": "農安街",
         "Lat": 25.06493634,
         "Lon": 121.5286595,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1377"
       },
       {
         "Name": "稻江護校",
         "Lat": 25.066076,
         "Lon": 121.528089,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1387"
       },
       {
         "Name": "民族東路口",
         "Lat": 25.06761882553957,
         "Lon": 121.52804750361558,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1165608795"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06857831,
         "Lon": 121.5239878,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "16261"
       },
       {
         "Name": "花博公園",
         "Lat": 25.0685957947607,
         "Lon": 121.520798366208,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1407"
       },
       {
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1462"
       }
     ]
   },
@@ -160,67 +183,78 @@
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1462"
       },
       {
         "Name": "花博公園",
         "Lat": 25.06836964371407,
         "Lon": 121.5219958317649,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1406"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06834316,
         "Lon": 121.5242636,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1000901"
       },
       {
         "Name": "吉林路底",
         "Lat": 25.0671439681624,
         "Lon": 121.530399427523,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1251"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06478877,
         "Lon": 121.5306207,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1378"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06471,
         "Lon": 121.53409,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "1192"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06585474,
         "Lon": 121.5368048,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1208"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06605,
         "Lon": 121.53905,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1396"
       },
       {
         "Name": "復興北村",
         "Lat": 25.06497867,
         "Lon": 121.5441547,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1348"
       },
       {
         "Name": "五常街口",
         "Lat": 25.06369319,
         "Lon": 121.5440531,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "6989"
       },
       {
         "Name": "捷運中山國中站",
         "Lat": 25.06148096,
         "Lon": 121.5440343,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1574"
       }
     ]
   },
@@ -233,73 +267,85 @@
         "Name": "龍江路口",
         "Lat": 25.06090008,
         "Lon": 121.5408185,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1395"
       },
       {
         "Name": "五常國小",
         "Lat": 25.06401,
         "Lon": 121.54096,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1197"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06611465,
         "Lon": 121.5394645,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "3986"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06614272,
         "Lon": 121.5370488,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1210"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06481353,
         "Lon": 121.5336228,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "16266"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06487895,
         "Lon": 121.5306212,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "16260"
       },
       {
         "Name": "農安街",
         "Lat": 25.06493634,
         "Lon": 121.5286595,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1377"
       },
       {
         "Name": "稻江護校",
         "Lat": 25.066076,
         "Lon": 121.528089,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1387"
       },
       {
         "Name": "民族東路口",
         "Lat": 25.06761882553957,
         "Lon": 121.52804750361558,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1165608795"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06857831,
         "Lon": 121.5239878,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "16261"
       },
       {
         "Name": "花博公園",
         "Lat": 25.0685957947607,
         "Lon": 121.520798366208,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1407"
       },
       {
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1462"
       }
     ]
   },
@@ -312,73 +358,85 @@
         "Name": "民族西路",
         "Lat": 25.06858641,
         "Lon": 121.5127488,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1423"
       },
       {
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1462"
       },
       {
         "Name": "花博公園",
         "Lat": 25.06836964371407,
         "Lon": 121.5219958317649,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1406"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06834316,
         "Lon": 121.5242636,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1000901"
       },
       {
         "Name": "吉林路底",
         "Lat": 25.0671439681624,
         "Lon": 121.530399427523,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1251"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06478877,
         "Lon": 121.5306207,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "1378"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06471,
         "Lon": 121.53409,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1192"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06585474,
         "Lon": 121.5368048,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1208"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06605,
         "Lon": 121.53905,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1396"
       },
       {
         "Name": "復興北村",
         "Lat": 25.06497867,
         "Lon": 121.5441547,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1348"
       },
       {
         "Name": "五常街口",
         "Lat": 25.06369319,
         "Lon": 121.5440531,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "6989"
       },
       {
         "Name": "捷運中山國中站",
         "Lat": 25.06148096,
         "Lon": 121.5440343,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1574"
       }
     ]
   },
@@ -391,73 +449,85 @@
         "Name": "民族西路",
         "Lat": 25.06858641,
         "Lon": 121.5127488,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1423"
       },
       {
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1462"
       },
       {
         "Name": "花博公園",
         "Lat": 25.06836964371407,
         "Lon": 121.5219958317649,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1406"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06834316,
         "Lon": 121.5242636,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1000901"
       },
       {
         "Name": "吉林路底",
         "Lat": 25.0671439681624,
         "Lon": 121.530399427523,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1251"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06478877,
         "Lon": 121.5306207,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "1378"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06471,
         "Lon": 121.53409,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1192"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06585474,
         "Lon": 121.5368048,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1208"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06605,
         "Lon": 121.53905,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1396"
       },
       {
         "Name": "復興北村",
         "Lat": 25.06497867,
         "Lon": 121.5441547,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1348"
       },
       {
         "Name": "五常街口",
         "Lat": 25.06369319,
         "Lon": 121.5440531,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "6989"
       },
       {
         "Name": "捷運中山國中站",
         "Lat": 25.06148096,
         "Lon": 121.5440343,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1574"
       }
     ]
   },
@@ -470,79 +540,92 @@
         "Name": "龍江路口",
         "Lat": 25.06090008,
         "Lon": 121.5408185,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1395"
       },
       {
         "Name": "五常國小",
         "Lat": 25.06401,
         "Lon": 121.54096,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1197"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06611465,
         "Lon": 121.5394645,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "3986"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06614272,
         "Lon": 121.5370488,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1210"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06481353,
         "Lon": 121.5336228,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "16266"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06487895,
         "Lon": 121.5306212,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "16260"
       },
       {
         "Name": "農安街",
         "Lat": 25.06493634,
         "Lon": 121.5286595,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1377"
       },
       {
         "Name": "稻江護校",
         "Lat": 25.066076,
         "Lon": 121.528089,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1387"
       },
       {
         "Name": "民族東路口",
         "Lat": 25.06761882553957,
         "Lon": 121.52804750361558,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1165608795"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06857831,
         "Lon": 121.5239878,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "16261"
       },
       {
         "Name": "花博公園",
         "Lat": 25.0685957947607,
         "Lon": 121.520798366208,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1407"
       },
       {
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1462"
       },
       {
         "Name": "蘭州國中",
         "Lat": 25.06869,
         "Lon": 121.51625,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1001262"
       }
     ]
   },
@@ -555,67 +638,78 @@
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1462"
       },
       {
         "Name": "花博公園",
         "Lat": 25.06836964371407,
         "Lon": 121.5219958317649,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1406"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06834316,
         "Lon": 121.5242636,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1000901"
       },
       {
         "Name": "吉林路底",
         "Lat": 25.0671439681624,
         "Lon": 121.530399427523,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1251"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06478877,
         "Lon": 121.5306207,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1378"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06471,
         "Lon": 121.53409,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "1192"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06585474,
         "Lon": 121.5368048,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "1208"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06605,
         "Lon": 121.53905,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1396"
       },
       {
         "Name": "復興北村",
         "Lat": 25.06497867,
         "Lon": 121.5441547,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1348"
       },
       {
         "Name": "五常街口",
         "Lat": 25.06369319,
         "Lon": 121.5440531,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "6989"
       },
       {
         "Name": "捷運中山國中站",
         "Lat": 25.06148096,
         "Lon": 121.5440343,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "1574"
       }
     ]
   },
@@ -628,79 +722,92 @@
         "Name": "龍江路口",
         "Lat": 25.06090008,
         "Lon": 121.5408185,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1395"
       },
       {
         "Name": "五常國小",
         "Lat": 25.06401,
         "Lon": 121.54096,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1197"
       },
       {
         "Name": "行仁里",
         "Lat": 25.06578312,
         "Lon": 121.5410055,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1000862"
       },
       {
         "Name": "濱江商圈",
         "Lat": 25.06611465,
         "Lon": 121.5394645,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "3986"
       },
       {
         "Name": "臺北漁市",
         "Lat": 25.06614272,
         "Lon": 121.5370488,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1210"
       },
       {
         "Name": "中山區公所",
         "Lat": 25.06481353,
         "Lon": 121.5336228,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "16266"
       },
       {
         "Name": "農安街吉林路口",
         "Lat": 25.06487895,
         "Lon": 121.5306212,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "16260"
       },
       {
         "Name": "農安街",
         "Lat": 25.06493634,
         "Lon": 121.5286595,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1377"
       },
       {
         "Name": "稻江護校",
         "Lat": 25.066076,
         "Lon": 121.528089,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1387"
       },
       {
         "Name": "民族東路口",
         "Lat": 25.06761882553957,
         "Lon": 121.52804750361558,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "1165608795"
       },
       {
         "Name": "大同大學",
         "Lat": 25.06857831,
         "Lon": 121.5239878,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "16261"
       },
       {
         "Name": "花博公園",
         "Lat": 25.0685957947607,
         "Lon": 121.520798366208,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "1407"
       },
       {
         "Name": "捷運圓山站",
         "Lat": 25.069744,
         "Lon": 121.520216,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "1462"
       }
     ]
   }

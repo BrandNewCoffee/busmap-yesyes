@@ -8,187 +8,218 @@
         "Name": "致遠新村",
         "Lat": 25.1430158716225,
         "Lon": 121.490788784285,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "7242"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "450"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.13974,
         "Lon": 121.48958,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "50059"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13807076,
         "Lon": 121.4923517,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "416"
       },
       {
         "Name": "文化國小",
         "Lat": 25.1366901,
         "Lon": 121.4957248,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "90"
       },
       {
         "Name": "幼華高中(大業)",
         "Lat": 25.135718233601,
         "Lon": 121.496806634171,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "4"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "5"
       },
       {
         "Name": "大業中央北路口",
         "Lat": 25.135605,
         "Lon": 121.498029,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "50062"
       },
       {
         "Name": "北投國小",
         "Lat": 25.13384543,
         "Lon": 121.5007209,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "120"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.13489933134952,
         "Lon": 121.50256846263959,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "7239"
       },
       {
         "Name": "北投公園",
         "Lat": 25.13658039419034,
         "Lon": 121.50444128215462,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "113"
       },
       {
         "Name": "新北投",
         "Lat": 25.137839376017,
         "Lon": 121.504544748237,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "7212"
       },
       {
         "Name": "華僑會館",
         "Lat": 25.13930593,
         "Lon": 121.5059604,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1001311"
       },
       {
         "Name": "雅敘園",
         "Lat": 25.14066656,
         "Lon": 121.506324,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "1000407"
       },
       {
         "Name": "源之鄉",
         "Lat": 25.14134,
         "Lon": 121.50781,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "461"
       },
       {
         "Name": "郵政訓練所",
         "Lat": 25.14102259,
         "Lon": 121.5097788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "439"
       },
       {
         "Name": "八勝園",
         "Lat": 25.1411661449186,
         "Lon": 121.511030827324,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "1000409"
       },
       {
         "Name": "上北投",
         "Lat": 25.14187,
         "Lon": 121.51406,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20360"
       },
       {
         "Name": "泉源別墅",
         "Lat": 25.14275949,
         "Lon": 121.5178621,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "1001312"
       },
       {
         "Name": "彌陀寺(硫磺谷)",
         "Lat": 25.14374,
         "Lon": 121.52148,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "1001471"
       },
       {
         "Name": "大同之家",
         "Lat": 25.146018,
         "Lon": 121.523174,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "1001316"
       },
       {
         "Name": "十八份福德宮",
         "Lat": 25.147905,
         "Lon": 121.522296,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "1001313"
       },
       {
         "Name": "泉源3號橋",
         "Lat": 25.150204,
         "Lon": 121.522434,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1165604756"
       },
       {
         "Name": "中正山登山口",
         "Lat": 25.150059,
         "Lon": 121.520183,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "1165605302"
       },
       {
         "Name": "十八份埔",
         "Lat": 25.150052,
         "Lon": 121.51803,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "1165603386"
       },
       {
         "Name": "張公聖君廟",
         "Lat": 25.149419,
         "Lon": 121.516078,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1165608515"
       },
       {
         "Name": "嶺頭",
         "Lat": 25.14789,
         "Lon": 121.514132,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "1001315"
       }
     ]
   },
@@ -201,139 +232,162 @@
         "Name": "觀景台",
         "Lat": 25.147639,
         "Lon": 121.510231,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "4839"
       },
       {
         "Name": "嶺腳",
         "Lat": 25.146184,
         "Lon": 121.513527,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1165606565"
       },
       {
         "Name": "水源地",
         "Lat": 25.146359,
         "Lon": 121.510701,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1165606566"
       },
       {
         "Name": "泉源公園",
         "Lat": 25.142401,
         "Lon": 121.506937,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "5066"
       },
       {
         "Name": "長壽路口",
         "Lat": 25.141694,
         "Lon": 121.505558,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1165608545"
       },
       {
         "Name": "進賢路口",
         "Lat": 25.14086,
         "Lon": 121.50482,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "5064"
       },
       {
         "Name": "復興一路口",
         "Lat": 25.14030313,
         "Lon": 121.5026088,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "5062"
       },
       {
         "Name": "中和街",
         "Lat": 25.1391571863191,
         "Lon": 121.501520744986,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "64"
       },
       {
         "Name": "新北投",
         "Lat": 25.137791,
         "Lon": 121.502937,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "456"
       },
       {
         "Name": "北投公園",
         "Lat": 25.1363484992167,
         "Lon": 121.504124469582,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "112"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.1345133895389,
         "Lon": 121.50235879653,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "399"
       },
       {
         "Name": "中央南路",
         "Lat": 25.1321537676007,
         "Lon": 121.50131769692,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "7241"
       },
       {
         "Name": "大興街口",
         "Lat": 25.130578,
         "Lon": 121.499403,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "45"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "5"
       },
       {
         "Name": "文化國小",
         "Lat": 25.13690086,
         "Lon": 121.4955289,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "3962"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13812,
         "Lon": 121.4926,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "3963"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.14056,
         "Lon": 121.48966,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "511"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "450"
       },
       {
         "Name": "致遠新村",
         "Lat": 25.1430048049067,
         "Lon": 121.490879066621,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "302"
       }
     ]
   },
@@ -346,187 +400,218 @@
         "Name": "致遠新村",
         "Lat": 25.1430158716225,
         "Lon": 121.490788784285,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "7242"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "450"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.13974,
         "Lon": 121.48958,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "50059"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13807076,
         "Lon": 121.4923517,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "416"
       },
       {
         "Name": "文化國小",
         "Lat": 25.1366901,
         "Lon": 121.4957248,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "90"
       },
       {
         "Name": "幼華高中(大業)",
         "Lat": 25.135718233601,
         "Lon": 121.496806634171,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "4"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "5"
       },
       {
         "Name": "大業中央北路口",
         "Lat": 25.135605,
         "Lon": 121.498029,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "50062"
       },
       {
         "Name": "北投國小",
         "Lat": 25.13384543,
         "Lon": 121.5007209,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "120"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.13489933134952,
         "Lon": 121.50256846263959,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "7239"
       },
       {
         "Name": "北投公園",
         "Lat": 25.13658039419034,
         "Lon": 121.50444128215462,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "113"
       },
       {
         "Name": "新北投",
         "Lat": 25.137839376017,
         "Lon": 121.504544748237,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "7212"
       },
       {
         "Name": "華僑會館",
         "Lat": 25.13930593,
         "Lon": 121.5059604,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1001311"
       },
       {
         "Name": "雅敘園",
         "Lat": 25.14066656,
         "Lon": 121.506324,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "1000407"
       },
       {
         "Name": "源之鄉",
         "Lat": 25.14134,
         "Lon": 121.50781,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "461"
       },
       {
         "Name": "郵政訓練所",
         "Lat": 25.14102259,
         "Lon": 121.5097788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "439"
       },
       {
         "Name": "八勝園",
         "Lat": 25.1411661449186,
         "Lon": 121.511030827324,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "1000409"
       },
       {
         "Name": "上北投",
         "Lat": 25.14187,
         "Lon": 121.51406,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20360"
       },
       {
         "Name": "泉源別墅",
         "Lat": 25.14275949,
         "Lon": 121.5178621,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "1001312"
       },
       {
         "Name": "彌陀寺(硫磺谷)",
         "Lat": 25.14374,
         "Lon": 121.52148,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "1001471"
       },
       {
         "Name": "大同之家",
         "Lat": 25.146018,
         "Lon": 121.523174,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "1001316"
       },
       {
         "Name": "十八份福德宮",
         "Lat": 25.147905,
         "Lon": 121.522296,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "1001313"
       },
       {
         "Name": "泉源3號橋",
         "Lat": 25.150204,
         "Lon": 121.522434,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1165604756"
       },
       {
         "Name": "中正山登山口",
         "Lat": 25.150059,
         "Lon": 121.520183,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "1165605302"
       },
       {
         "Name": "十八份埔",
         "Lat": 25.150052,
         "Lon": 121.51803,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "1165603386"
       },
       {
         "Name": "張公聖君廟",
         "Lat": 25.149419,
         "Lon": 121.516078,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1165608515"
       },
       {
         "Name": "嶺頭",
         "Lat": 25.14789,
         "Lon": 121.514132,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "1001315"
       }
     ]
   },
@@ -539,181 +624,211 @@
         "Name": "嶺頭",
         "Lat": 25.14789,
         "Lon": 121.514132,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "1001315"
       },
       {
         "Name": "張公聖君廟",
         "Lat": 25.1493808,
         "Lon": 121.5163269,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "4835"
       },
       {
         "Name": "十八份埔",
         "Lat": 25.150036,
         "Lon": 121.518244,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1165603385"
       },
       {
         "Name": "中正山登山口",
         "Lat": 25.149962,
         "Lon": 121.520194,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "4836"
       },
       {
         "Name": "泉源3號橋",
         "Lat": 25.149966,
         "Lon": 121.522745,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1165606405"
       },
       {
         "Name": "十八份福德宮",
         "Lat": 25.14767,
         "Lon": 121.52225,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "2"
       },
       {
         "Name": "大同之家",
         "Lat": 25.14588,
         "Lon": 121.52314,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "20"
       },
       {
         "Name": "彌陀寺(硫磺谷)",
         "Lat": 25.14381,
         "Lon": 121.52138,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "1001473"
       },
       {
         "Name": "泉源別墅",
         "Lat": 25.14288044,
         "Lon": 121.5179218,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "294"
       },
       {
         "Name": "上北投",
         "Lat": 25.14187054,
         "Lon": 121.5138656,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "18"
       },
       {
         "Name": "八勝園",
         "Lat": 25.14139054,
         "Lon": 121.511701,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "8"
       },
       {
         "Name": "郵政訓練所",
         "Lat": 25.14117,
         "Lon": 121.50929,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "20358"
       },
       {
         "Name": "源之鄉",
         "Lat": 25.14152,
         "Lon": 121.50773,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "20359"
       },
       {
         "Name": "雅敘園",
         "Lat": 25.14053914,
         "Lon": 121.5062464,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "448"
       },
       {
         "Name": "華僑會館",
         "Lat": 25.13931402,
         "Lon": 121.5057796,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "433"
       },
       {
         "Name": "新北投",
         "Lat": 25.1376964610609,
         "Lon": 121.504158979648,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "7210"
       },
       {
         "Name": "北投公園",
         "Lat": 25.1363484992167,
         "Lon": 121.504124469582,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "112"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.1345133895389,
         "Lon": 121.50235879653,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "399"
       },
       {
         "Name": "中央南路",
         "Lat": 25.1321537676007,
         "Lon": 121.50131769692,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "7241"
       },
       {
         "Name": "大興街口",
         "Lat": 25.130578,
         "Lon": 121.499403,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "45"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "5"
       },
       {
         "Name": "文化國小",
         "Lat": 25.13690086,
         "Lon": 121.4955289,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "3962"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13812,
         "Lon": 121.4926,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "3963"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.14056,
         "Lon": 121.48966,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "511"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "450"
       },
       {
         "Name": "致遠新村",
         "Lat": 25.1430048049067,
         "Lon": 121.490879066621,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "302"
       }
     ]
   },
@@ -726,187 +841,218 @@
         "Name": "致遠新村",
         "Lat": 25.1430158716225,
         "Lon": 121.490788784285,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "7242"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "450"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.13974,
         "Lon": 121.48958,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "50059"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13807076,
         "Lon": 121.4923517,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "416"
       },
       {
         "Name": "文化國小",
         "Lat": 25.1366901,
         "Lon": 121.4957248,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "90"
       },
       {
         "Name": "幼華高中(大業)",
         "Lat": 25.135718233601,
         "Lon": 121.496806634171,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "4"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "5"
       },
       {
         "Name": "大業中央北路口",
         "Lat": 25.135605,
         "Lon": 121.498029,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "50062"
       },
       {
         "Name": "北投國小",
         "Lat": 25.13384543,
         "Lon": 121.5007209,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "120"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.13489933134952,
         "Lon": 121.50256846263959,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "7239"
       },
       {
         "Name": "北投公園",
         "Lat": 25.13658039419034,
         "Lon": 121.50444128215462,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "113"
       },
       {
         "Name": "新北投",
         "Lat": 25.137839376017,
         "Lon": 121.504544748237,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "7212"
       },
       {
         "Name": "華僑會館",
         "Lat": 25.13930593,
         "Lon": 121.5059604,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1001311"
       },
       {
         "Name": "雅敘園",
         "Lat": 25.14066656,
         "Lon": 121.506324,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "1000407"
       },
       {
         "Name": "源之鄉",
         "Lat": 25.14134,
         "Lon": 121.50781,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "461"
       },
       {
         "Name": "郵政訓練所",
         "Lat": 25.14102259,
         "Lon": 121.5097788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "439"
       },
       {
         "Name": "八勝園",
         "Lat": 25.1411661449186,
         "Lon": 121.511030827324,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "1000409"
       },
       {
         "Name": "上北投",
         "Lat": 25.14187,
         "Lon": 121.51406,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20360"
       },
       {
         "Name": "泉源別墅",
         "Lat": 25.14275949,
         "Lon": 121.5178621,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "1001312"
       },
       {
         "Name": "彌陀寺(硫磺谷)",
         "Lat": 25.14374,
         "Lon": 121.52148,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "1001471"
       },
       {
         "Name": "大同之家",
         "Lat": 25.146018,
         "Lon": 121.523174,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "1001316"
       },
       {
         "Name": "十八份福德宮",
         "Lat": 25.147905,
         "Lon": 121.522296,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "1001313"
       },
       {
         "Name": "泉源3號橋",
         "Lat": 25.150204,
         "Lon": 121.522434,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1165604756"
       },
       {
         "Name": "中正山登山口",
         "Lat": 25.150059,
         "Lon": 121.520183,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "1165605302"
       },
       {
         "Name": "十八份埔",
         "Lat": 25.150052,
         "Lon": 121.51803,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "1165603386"
       },
       {
         "Name": "張公聖君廟",
         "Lat": 25.149419,
         "Lon": 121.516078,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1165608515"
       },
       {
         "Name": "嶺頭",
         "Lat": 25.14789,
         "Lon": 121.514132,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "1001315"
       }
     ]
   },
@@ -919,151 +1065,176 @@
         "Name": "觀景台",
         "Lat": 25.147639,
         "Lon": 121.510231,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "4839"
       },
       {
         "Name": "登山路40號",
         "Lat": 25.14526221,
         "Lon": 121.514058,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1165610413"
       },
       {
         "Name": "張公聖君廟",
         "Lat": 25.1493808,
         "Lon": 121.5163269,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "4835"
       },
       {
         "Name": "十八份埔",
         "Lat": 25.150036,
         "Lon": 121.518244,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "1165603385"
       },
       {
         "Name": "中正山登山口",
         "Lat": 25.149962,
         "Lon": 121.520194,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "4836"
       },
       {
         "Name": "泉源3號橋",
         "Lat": 25.149966,
         "Lon": 121.522745,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "1165606405"
       },
       {
         "Name": "十八份福德宮",
         "Lat": 25.14767,
         "Lon": 121.52225,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "2"
       },
       {
         "Name": "大同之家",
         "Lat": 25.14588,
         "Lon": 121.52314,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "20"
       },
       {
         "Name": "彌陀寺(硫磺谷)",
         "Lat": 25.14381,
         "Lon": 121.52138,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "1001473"
       },
       {
         "Name": "泉源別墅",
         "Lat": 25.14288044,
         "Lon": 121.5179218,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "294"
       },
       {
         "Name": "新北投",
         "Lat": 25.1376964610609,
         "Lon": 121.504158979648,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "7210"
       },
       {
         "Name": "北投公園",
         "Lat": 25.1363484992167,
         "Lon": 121.504124469582,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "112"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.1345133895389,
         "Lon": 121.50235879653,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "399"
       },
       {
         "Name": "中央南路",
         "Lat": 25.1321537676007,
         "Lon": 121.50131769692,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "7241"
       },
       {
         "Name": "大興街口",
         "Lat": 25.130578,
         "Lon": 121.499403,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "45"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "5"
       },
       {
         "Name": "文化國小",
         "Lat": 25.13690086,
         "Lon": 121.4955289,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "3962"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13812,
         "Lon": 121.4926,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "3963"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.14056,
         "Lon": 121.48966,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "511"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "450"
       },
       {
         "Name": "致遠新村",
         "Lat": 25.1430048049067,
         "Lon": 121.490879066621,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "302"
       }
     ]
   },
@@ -1076,193 +1247,225 @@
         "Name": "致遠新村",
         "Lat": 25.1430158716225,
         "Lon": 121.490788784285,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "7242"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "450"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.13974,
         "Lon": 121.48958,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "50059"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13807076,
         "Lon": 121.4923517,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "416"
       },
       {
         "Name": "文化國小",
         "Lat": 25.1366901,
         "Lon": 121.4957248,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "90"
       },
       {
         "Name": "幼華高中(大業)",
         "Lat": 25.135718233601,
         "Lon": 121.496806634171,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "4"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "5"
       },
       {
         "Name": "大業中央北路口",
         "Lat": 25.135605,
         "Lon": 121.498029,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "50062"
       },
       {
         "Name": "北投國小",
         "Lat": 25.13384543,
         "Lon": 121.5007209,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "120"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.13489933134952,
         "Lon": 121.50256846263959,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "7239"
       },
       {
         "Name": "北投公園",
         "Lat": 25.13658039419034,
         "Lon": 121.50444128215462,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "113"
       },
       {
         "Name": "新北投",
         "Lat": 25.137839376017,
         "Lon": 121.504544748237,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "7212"
       },
       {
         "Name": "華僑會館",
         "Lat": 25.13930593,
         "Lon": 121.5059604,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "1001311"
       },
       {
         "Name": "雅敘園",
         "Lat": 25.14066656,
         "Lon": 121.506324,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "1000407"
       },
       {
         "Name": "源之鄉",
         "Lat": 25.14134,
         "Lon": 121.50781,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "461"
       },
       {
         "Name": "郵政訓練所",
         "Lat": 25.14102259,
         "Lon": 121.5097788,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "439"
       },
       {
         "Name": "八勝園",
         "Lat": 25.1411661449186,
         "Lon": 121.511030827324,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "1000409"
       },
       {
         "Name": "上北投",
         "Lat": 25.14187,
         "Lon": 121.51406,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "20360"
       },
       {
         "Name": "泉源別墅",
         "Lat": 25.14275949,
         "Lon": 121.5178621,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "1001312"
       },
       {
         "Name": "彌陀寺(硫磺谷)",
         "Lat": 25.14374,
         "Lon": 121.52148,
-        "Sequence": 24
+        "Sequence": 24,
+        "StationID": "1001471"
       },
       {
         "Name": "惇敘工商(泉源)",
         "Lat": 25.143846,
         "Lon": 121.526529,
-        "Sequence": 25
+        "Sequence": 25,
+        "StationID": "1165604803"
       },
       {
         "Name": "大同之家",
         "Lat": 25.146018,
         "Lon": 121.523174,
-        "Sequence": 26
+        "Sequence": 26,
+        "StationID": "1001316"
       },
       {
         "Name": "十八份福德宮",
         "Lat": 25.147905,
         "Lon": 121.522296,
-        "Sequence": 27
+        "Sequence": 27,
+        "StationID": "1001313"
       },
       {
         "Name": "泉源3號橋",
         "Lat": 25.150204,
         "Lon": 121.522434,
-        "Sequence": 28
+        "Sequence": 28,
+        "StationID": "1165604756"
       },
       {
         "Name": "中正山登山口",
         "Lat": 25.150059,
         "Lon": 121.520183,
-        "Sequence": 29
+        "Sequence": 29,
+        "StationID": "1165605302"
       },
       {
         "Name": "十八份埔",
         "Lat": 25.150052,
         "Lon": 121.51803,
-        "Sequence": 30
+        "Sequence": 30,
+        "StationID": "1165603386"
       },
       {
         "Name": "張公聖君廟",
         "Lat": 25.149419,
         "Lon": 121.516078,
-        "Sequence": 31
+        "Sequence": 31,
+        "StationID": "1165608515"
       },
       {
         "Name": "嶺頭",
         "Lat": 25.14789,
         "Lon": 121.514132,
-        "Sequence": 32
+        "Sequence": 32,
+        "StationID": "1001315"
       }
     ]
   },
@@ -1275,139 +1478,162 @@
         "Name": "觀景台",
         "Lat": 25.147639,
         "Lon": 121.510231,
-        "Sequence": 1
+        "Sequence": 1,
+        "StationID": "4839"
       },
       {
         "Name": "嶺腳",
         "Lat": 25.146184,
         "Lon": 121.513527,
-        "Sequence": 2
+        "Sequence": 2,
+        "StationID": "1165606565"
       },
       {
         "Name": "水源地",
         "Lat": 25.146359,
         "Lon": 121.510701,
-        "Sequence": 3
+        "Sequence": 3,
+        "StationID": "1165606566"
       },
       {
         "Name": "泉源公園",
         "Lat": 25.142401,
         "Lon": 121.506937,
-        "Sequence": 4
+        "Sequence": 4,
+        "StationID": "5066"
       },
       {
         "Name": "長壽路口",
         "Lat": 25.141694,
         "Lon": 121.505558,
-        "Sequence": 5
+        "Sequence": 5,
+        "StationID": "1165608545"
       },
       {
         "Name": "進賢路口",
         "Lat": 25.14086,
         "Lon": 121.50482,
-        "Sequence": 6
+        "Sequence": 6,
+        "StationID": "5064"
       },
       {
         "Name": "復興一路口",
         "Lat": 25.14030313,
         "Lon": 121.5026088,
-        "Sequence": 7
+        "Sequence": 7,
+        "StationID": "5062"
       },
       {
         "Name": "中和街",
         "Lat": 25.1391571863191,
         "Lon": 121.501520744986,
-        "Sequence": 8
+        "Sequence": 8,
+        "StationID": "64"
       },
       {
         "Name": "新北投",
         "Lat": 25.137791,
         "Lon": 121.502937,
-        "Sequence": 9
+        "Sequence": 9,
+        "StationID": "456"
       },
       {
         "Name": "北投公園",
         "Lat": 25.1363484992167,
         "Lon": 121.504124469582,
-        "Sequence": 10
+        "Sequence": 10,
+        "StationID": "112"
       },
       {
         "Name": "第一銀行",
         "Lat": 25.1345133895389,
         "Lon": 121.50235879653,
-        "Sequence": 11
+        "Sequence": 11,
+        "StationID": "399"
       },
       {
         "Name": "中央南路",
         "Lat": 25.1321537676007,
         "Lon": 121.50131769692,
-        "Sequence": 12
+        "Sequence": 12,
+        "StationID": "7241"
       },
       {
         "Name": "大興街口",
         "Lat": 25.130578,
         "Lon": 121.499403,
-        "Sequence": 13
+        "Sequence": 13,
+        "StationID": "45"
       },
       {
         "Name": "捷運北投站(北投)",
         "Lat": 25.132300275375297,
         "Lon": 121.49796757939285,
-        "Sequence": 14
+        "Sequence": 14,
+        "StationID": "358"
       },
       {
         "Name": "幼華高中(北投)",
         "Lat": 25.13423,
         "Lon": 121.49683,
-        "Sequence": 15
+        "Sequence": 15,
+        "StationID": "5"
       },
       {
         "Name": "文化國小",
         "Lat": 25.13690086,
         "Lon": 121.4955289,
-        "Sequence": 16
+        "Sequence": 16,
+        "StationID": "3962"
       },
       {
         "Name": "復興崗",
         "Lat": 25.13812,
         "Lon": 121.4926,
-        "Sequence": 17
+        "Sequence": 17,
+        "StationID": "3963"
       },
       {
         "Name": "稻香圖書館",
         "Lat": 25.14056,
         "Lon": 121.48966,
-        "Sequence": 18
+        "Sequence": 18,
+        "StationID": "511"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1425428196683,
         "Lon": 121.489850026829,
-        "Sequence": 19
+        "Sequence": 19,
+        "StationID": "50061"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.143659,
         "Lon": 121.488841,
-        "Sequence": 20
+        "Sequence": 20,
+        "StationID": "4778"
       },
       {
         "Name": "大華柏園",
         "Lat": 25.14363,
         "Lon": 121.48868,
-        "Sequence": 21
+        "Sequence": 21,
+        "StationID": "70053"
       },
       {
         "Name": "集應廟",
         "Lat": 25.1423265533076,
         "Lon": 121.489860552554,
-        "Sequence": 22
+        "Sequence": 22,
+        "StationID": "450"
       },
       {
         "Name": "致遠新村",
         "Lat": 25.1430048049067,
         "Lon": 121.490879066621,
-        "Sequence": 23
+        "Sequence": 23,
+        "StationID": "302"
       }
     ]
   }

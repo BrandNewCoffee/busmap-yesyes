@@ -8,7 +8,7 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 const colorChart=["red","blue"];
 currentLine=null
 //start=null
-routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","542","小7"];
+routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","2","536","303","303區","542","669","小7"];
 currentStops=L.layerGroup().addTo(map)
 
 routeList.forEach(route=>{

@@ -48,9 +48,9 @@ function stops(r,s,d){
     fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${r}.json`)
     .then(res => res.json())
     .then(data=>{
+        currentStops.clearLayers();
         data.forEach(subRoute=>{
             if(s==subRoute.SubRoute && d==subRoute.Direction){
-                currentStops.clearLayers();
                 subRoute.Stops.forEach(stop => {
                 L.marker([stop.Lat, stop.Lon])
                 .addTo(currentStops)

@@ -7,11 +7,10 @@ def list_append(r,s,d,geometry,stops):
         "Geometry":geometry,
         "Stops":stops
     })
-for r in [  "2",
-  "536",
-  "303",
-  "303區",
-  "669"]:
+
+routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","2","536","303","303區","542","669","小7"]
+
+for r in routeList:
     with open(f"../yesyes/data/shape/shape_{r}.json",mode="r",encoding="utf-8") as file:
         shapedata=json.load(file)
     with open(f"../yesyes/data/stops/stops_{r}.json",mode="r",encoding="utf-8") as file:

@@ -8,73 +8,80 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 const colorChart=["red","blue"];
 currentLine=null
 //start=null
-routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","2","536","303","303區","542","669","小7"];
+const routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","2","536","303","303區","542","669","小7"];
 currentStops=L.layerGroup().addTo(map)
+const dataCache=[];
 
 routeList.forEach(route=>{
     const btn=document.createElement("button");
     btn.textContent=route;
     btn.classList.add("button");
-    btn.addEventListener("click",()=>showMenu(route));
+    btn.addEventListener("click",()=>showSubMenu(route));
     routeMenu.appendChild(btn)}
 )
 
-function yesyes(){
-    console.log("yesyes");
+async function getData(r){
+    if(dataCache[r]){
+        return dataCache[r];
+    }
+
+    const res=await fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${r}.json`);
+    const data=await res.json();
+    
+    dataCache[r]={};
+    data.forEach(subRouteData=>{
+        const s=subRouteData.SubRoute;
+        const d=subRouteData.Direction;
+        if(!dataCache[r][s]){
+            dataCache[r][s]={};
+        }
+        dataCache[r][s][d]=subRouteData;
+    });
+
+    return dataCache[r];
 }
 
-function showMenu(route){
-    fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${route}.json`)
-    .then(res=>res.json())
-    .then(data=>{
-        let menu=document.querySelector("#shapeMenu");
-        menu.innerHTML="";
-        data.forEach(subRoute=>{
+async function yesyes(){
+
+}
+
+async function showSubMenu(r){
+    const data=await getData(r);
+    let menu=document.querySelector("#shapeMenu");
+    menu.innerHTML="";
+    for(const s in data){  //r、s、d為key，並非資料本身(value)
+        for(const d in data[s]){
             const btn=document.createElement("button");
-            btn.textContent=`${subRoute.SubRoute}(${subRoute.Direction})`;
+            btn.textContent=`${s}(${d})`;
             btn.classList.add("button");
-            btn.addEventListener("click",()=>showRoute(route,subRoute.SubRoute,subRoute.Direction));
+            btn.addEventListener("click",()=>showRoute(r,s,d));
             shapeMenu.appendChild(btn);
-        })
-    })
+        }
+    }
 }
 
 function showRoute(r,s,d){
-    stops(r,s,d);
-    shape(r,s,d);
+    stops(r,s,d);shape(r,s,d);
 }
 
-function stops(r,s,d){
-    fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${r}.json`)
-    .then(res => res.json())
-    .then(data=>{
-        currentStops.clearLayers();
-        data.forEach(subRoute=>{
-            if(s==subRoute.SubRoute && d==subRoute.Direction){
-                subRoute.Stops.forEach(stop => {
-                L.marker([stop.Lat, stop.Lon])
-                .addTo(currentStops)
-                .bindPopup(`${subRoute.SubRoute}<br>${stop.Name}(${stop.Sequence})`);//`${subRoute.SubRoute}(${subRoute.Direction})<br>${stop.Name}`
-                })
-            }
-        })
+async function stops(r,s,d){
+    let data=await getData(r);
+    data=data[s][d];
+    currentStops.clearLayers();
+    data.Stops.forEach(stop=>{
+            L.marker([stop.Lat, stop.Lon])
+            .addTo(currentStops)
+            .bindPopup(`${s}<br>${stop.Name}(${stop.Sequence})`);
     })
 }
 
-function shape(r,s,d){
-    fetch(`https://BrandNewCoffee.github.io/bus-data/data/route/route_${r}.json`)
-    .then(res=>res.json())
-    .then(data=>{
-        if(currentLine){map.removeLayer(currentLine)};
-        data.forEach(subRoute=>{
-            if(subRoute.SubRoute==s && subRoute.Direction==d){
-                currentColor=colorChart[subRoute.Direction]
-                currentLine=L.polyline(subRoute.Geometry,{color:currentColor}).addTo(map);
-                // if(start){map.removeLayer(start)};
-                // let geo=subRoute.Geometry
-                // start=L.marker(geo[0]).addTo(map).bindPopup("起點");
-            } 
-        });
-    });
+async function shape(r,s,d){
+    let data=await getData(r);
+    data=data[s][d];
+    if(currentLine){map.removeLayer(currentLine)};
+    currentColor=colorChart[d];
+    currentLine=L.polyline(data.Geometry,{color:currentColor}).addTo(map);
+    // if(start){map.removeLayer(start)};
+    // let geo=subRoute.Geometry
+    // start=L.marker(geo[0]).addTo(map).bindPopup("起點");
 };
-

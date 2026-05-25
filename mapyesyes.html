@@ -11,46 +11,23 @@
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+	<link rel="stylesheet" type="text/css" href="main.css"/>
 
 	<style>
-		html, body {
-			height: 100%;
-			margin: 0;
-		}
-		.leaflet-container {
-			height: 400px;
-			width: 600px;
-			max-width: 100%;
-			max-height: 100%;
-		}
-		.button{
-			cursor:pointer;
-			/*position:absolute;*/
-		}
-
-		#search {
-			position: absolute;
-			top: 20px;
-			right: 20px;
-			z-index: 1000;
-			width: 100px;
-
-			padding: 8px;
-			font-size: 16px;
-			background-color:white;
-		}
-		#map{
-			width:100%;
-			height:400px;
-		}
+		
 	</style>
 
 	
 </head>
 <body>
-	<div id="map"></div>
 
-	<input type="search" id="search" placeholder="路線" onclick="">
+	<!-- <div id="mainSection" >
+		<div id="sidebar" onclick="sidebar_expand();">三</div> -->
+		<div id="map"></div>
+	<!-- </div> -->
+
+
+	<input type="search" id="search" placeholder="路線" onclick=""> 
 	<div id="routeMenu"></div>
 	<br/>
 	<div id="shapeMenu"></div>

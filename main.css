@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.leaflet-container {
+    height: 400px;
+    width: 600px;
+    max-width: 100%;
+    max-height: 100%;
+}
+.button{
+    cursor:pointer;
+    /*position:absolute;*/
+}
+
+#search {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    width: 100px;
+
+    padding: 8px;
+    font-size: 16px;
+    background-color:white;
+}
+#mainSection{
+    height:100%;
+    display:flex;
+}
+#map{
+    width:100%;
+    height:60%;
+}
+#sidebar{
+    background-color:royalblue;
+    width:5%;
+    text-align:center;
+    color:white;
+    font-size:25px;
+}

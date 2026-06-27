@@ -82,7 +82,7 @@ html, body {
     #subRouteMenu{
         display:none;
         flex-direction:column;
-        min-height:0px;
+        height:175px;
         text-align:center;
     }
         #subRouteHeader{
@@ -111,6 +111,6 @@ html, body {
     #searchRouteMenu{
         display:none;
         flex-direction:column;
-        min-height:0px;
+        height:175px;
         text-align:center;
     }

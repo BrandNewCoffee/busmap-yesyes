@@ -14,7 +14,7 @@ let currentStops=L.layerGroup().addTo(map);
 const dataCache=[];
 
 async function getRouteList(){
-    const res=await fetch("https://BrandNewCoffee.github.io/bus-data/data/stops/stops_234.json");
+    const res=await fetch("https://BrandNewCoffee.github.io/bus-data/data/routelist_sorted.json");
     const data=await res.json();
     return data;
 }

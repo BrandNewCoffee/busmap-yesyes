@@ -1,0 +1,149 @@
+[
+  {
+    "Route": "通勤7",
+    "SubRoute": "通勤7去程半",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "師大綜合大樓",
+        "Lat": 25.026362,
+        "Lon": 121.529958,
+        "Sequence": 1,
+        "StationID": "2291"
+      },
+      {
+        "Name": "臺大",
+        "Lat": 25.018029,
+        "Lon": 121.53375,
+        "Sequence": 2,
+        "StationID": "6667"
+      },
+      {
+        "Name": "臺大計資中心",
+        "Lat": 25.021046,
+        "Lon": 121.540923,
+        "Sequence": 3,
+        "StationID": "15108"
+      },
+      {
+        "Name": "中研院內郵局",
+        "Lat": 25.042744,
+        "Lon": 121.616318,
+        "Sequence": 7,
+        "StationID": "1165609207"
+      }
+    ]
+  },
+  {
+    "Route": "通勤7",
+    "SubRoute": "通勤7返程半",
+    "Direction": 1,
+    "Stops": [
+      {
+        "Name": "中研院內郵局",
+        "Lat": 25.042744,
+        "Lon": 121.616318,
+        "Sequence": 1,
+        "StationID": "1165609207"
+      },
+      {
+        "Name": "臺大計資中心",
+        "Lat": 25.021623,
+        "Lon": 121.540424,
+        "Sequence": 5,
+        "StationID": "2227"
+      },
+      {
+        "Name": "捷運台電大樓站",
+        "Lat": 25.020643,
+        "Lon": 121.528475,
+        "Sequence": 6,
+        "StationID": "1165604755"
+      },
+      {
+        "Name": "師大綜合大樓",
+        "Lat": 25.026362,
+        "Lon": 121.529958,
+        "Sequence": 7,
+        "StationID": "2291"
+      },
+      {
+        "Name": "臺大",
+        "Lat": 25.018029,
+        "Lon": 121.53375,
+        "Sequence": 8,
+        "StationID": "6667"
+      }
+    ]
+  },
+  {
+    "Route": "通勤7",
+    "SubRoute": "通勤7中研院發",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "臺大",
+        "Lat": 25.018029,
+        "Lon": 121.53375,
+        "Sequence": 1,
+        "StationID": "6667"
+      },
+      {
+        "Name": "臺大計資中心",
+        "Lat": 25.021046,
+        "Lon": 121.540923,
+        "Sequence": 2,
+        "StationID": "15108"
+      },
+      {
+        "Name": "中研院內郵局",
+        "Lat": 25.042744,
+        "Lon": 121.616318,
+        "Sequence": 6,
+        "StationID": "1165609207"
+      }
+    ]
+  },
+  {
+    "Route": "通勤7",
+    "SubRoute": "通勤7中研院發",
+    "Direction": 1,
+    "Stops": [
+      {
+        "Name": "中研院內郵局",
+        "Lat": 25.042744,
+        "Lon": 121.616318,
+        "Sequence": 1,
+        "StationID": "1165609207"
+      },
+      {
+        "Name": "臺大計資中心",
+        "Lat": 25.021623,
+        "Lon": 121.540424,
+        "Sequence": 5,
+        "StationID": "2227"
+      },
+      {
+        "Name": "捷運台電大樓站",
+        "Lat": 25.020643,
+        "Lon": 121.528475,
+        "Sequence": 6,
+        "StationID": "1165604755"
+      },
+      {
+        "Name": "師大綜合大樓",
+        "Lat": 25.026362,
+        "Lon": 121.529958,
+        "Sequence": 7,
+        "StationID": "2291"
+      },
+      {
+        "Name": "臺大",
+        "Lat": 25.018029,
+        "Lon": 121.53375,
+        "Sequence": 8,
+        "StationID": "6667"
+      }
+    ]
+  }
+]

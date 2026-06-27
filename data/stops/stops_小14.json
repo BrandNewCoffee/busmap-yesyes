@@ -1,0 +1,198 @@
+[
+  {
+    "Route": "小14",
+    "SubRoute": "小14",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "致遠新村",
+        "Lat": 25.1430158716225,
+        "Lon": 121.490788784285,
+        "Sequence": 1,
+        "StationID": "7242"
+      },
+      {
+        "Name": "稻香圖書館",
+        "Lat": 25.13974,
+        "Lon": 121.48958,
+        "Sequence": 2,
+        "StationID": "50059"
+      },
+      {
+        "Name": "復興崗",
+        "Lat": 25.13807076,
+        "Lon": 121.4923517,
+        "Sequence": 3,
+        "StationID": "416"
+      },
+      {
+        "Name": "文化國小",
+        "Lat": 25.1366901,
+        "Lon": 121.4957248,
+        "Sequence": 4,
+        "StationID": "90"
+      },
+      {
+        "Name": "大業中央北路口",
+        "Lat": 25.135605,
+        "Lon": 121.498029,
+        "Sequence": 5,
+        "StationID": "50062"
+      },
+      {
+        "Name": "北投國小",
+        "Lat": 25.13384543,
+        "Lon": 121.5007209,
+        "Sequence": 6,
+        "StationID": "120"
+      },
+      {
+        "Name": "北投市場(磺港)",
+        "Lat": 25.13244,
+        "Lon": 121.50318,
+        "Sequence": 7,
+        "StationID": "116"
+      },
+      {
+        "Name": "福安宮",
+        "Lat": 25.13064857,
+        "Lon": 121.5046188,
+        "Sequence": 8,
+        "StationID": "492"
+      },
+      {
+        "Name": "石門",
+        "Lat": 25.12933,
+        "Lon": 121.50566,
+        "Sequence": 9,
+        "StationID": "7227"
+      },
+      {
+        "Name": "清江國小",
+        "Lat": 25.12728,
+        "Lon": 121.50766,
+        "Sequence": 10,
+        "StationID": "396"
+      },
+      {
+        "Name": "奇岩新村",
+        "Lat": 25.125899152288,
+        "Lon": 121.50815979629,
+        "Sequence": 11,
+        "StationID": "213"
+      },
+      {
+        "Name": "公館華廈",
+        "Lat": 25.12460199,
+        "Lon": 121.506468,
+        "Sequence": 12,
+        "StationID": "84"
+      },
+      {
+        "Name": "照明寺",
+        "Lat": 25.13155579,
+        "Lon": 121.5132536,
+        "Sequence": 13,
+        "StationID": "1001260"
+      }
+    ]
+  },
+  {
+    "Route": "小14",
+    "SubRoute": "小14",
+    "Direction": 1,
+    "Stops": [
+      {
+        "Name": "照明寺",
+        "Lat": 25.13156065,
+        "Lon": 121.5132751,
+        "Sequence": 1,
+        "StationID": "1001261"
+      },
+      {
+        "Name": "公館華廈",
+        "Lat": 25.124355020579,
+        "Lon": 121.506346272697,
+        "Sequence": 2,
+        "StationID": "7232"
+      },
+      {
+        "Name": "奇岩新村",
+        "Lat": 25.12566,
+        "Lon": 121.50829,
+        "Sequence": 3,
+        "StationID": "7231"
+      },
+      {
+        "Name": "清江國小",
+        "Lat": 25.12764,
+        "Lon": 121.5076,
+        "Sequence": 4,
+        "StationID": "7230"
+      },
+      {
+        "Name": "石門",
+        "Lat": 25.12939742,
+        "Lon": 121.5056715,
+        "Sequence": 5,
+        "StationID": "7229"
+      },
+      {
+        "Name": "福安宮",
+        "Lat": 25.13111,
+        "Lon": 121.504679,
+        "Sequence": 6,
+        "StationID": "7244"
+      },
+      {
+        "Name": "北投市場(公館路)",
+        "Lat": 25.13267,
+        "Lon": 121.50369,
+        "Sequence": 7,
+        "StationID": "7243"
+      },
+      {
+        "Name": "北投國小",
+        "Lat": 25.13361526,
+        "Lon": 121.50136,
+        "Sequence": 8,
+        "StationID": "50057"
+      },
+      {
+        "Name": "大業中央北路口",
+        "Lat": 25.13580742,
+        "Lon": 121.4978915,
+        "Sequence": 9,
+        "StationID": "36"
+      },
+      {
+        "Name": "文化國小",
+        "Lat": 25.13690086,
+        "Lon": 121.4955289,
+        "Sequence": 10,
+        "StationID": "3962"
+      },
+      {
+        "Name": "復興崗",
+        "Lat": 25.13812,
+        "Lon": 121.4926,
+        "Sequence": 11,
+        "StationID": "3963"
+      },
+      {
+        "Name": "稻香圖書館",
+        "Lat": 25.14056,
+        "Lon": 121.48966,
+        "Sequence": 12,
+        "StationID": "511"
+      },
+      {
+        "Name": "致遠新村",
+        "Lat": 25.1430048049067,
+        "Lon": 121.490879066621,
+        "Sequence": 13,
+        "StationID": "302"
+      }
+    ]
+  }
+]

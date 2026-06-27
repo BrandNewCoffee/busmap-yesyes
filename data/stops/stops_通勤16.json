@@ -1,0 +1,128 @@
+[
+  {
+    "Route": "通勤16",
+    "SubRoute": "通勤16去程半",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "捷運南港展覽館站(經貿二)",
+        "Lat": 25.056341,
+        "Lon": 121.616849,
+        "Sequence": 1,
+        "StationID": "1658"
+      },
+      {
+        "Name": "捷運南港站",
+        "Lat": 25.05226,
+        "Lon": 121.607245,
+        "Sequence": 2,
+        "StationID": "1699"
+      },
+      {
+        "Name": "國家生技園區A/C棟",
+        "Lat": 25.048369,
+        "Lon": 121.612006,
+        "Sequence": 3,
+        "StationID": "1165606205"
+      },
+      {
+        "Name": "國家生技園區F棟",
+        "Lat": 25.047656,
+        "Lon": 121.611301,
+        "Sequence": 4,
+        "StationID": "1165606206"
+      }
+    ]
+  },
+  {
+    "Route": "通勤16",
+    "SubRoute": "通勤16返程半",
+    "Direction": 1,
+    "Stops": [
+      {
+        "Name": "國家生技園區A/C棟",
+        "Lat": 25.048369,
+        "Lon": 121.612006,
+        "Sequence": 1,
+        "StationID": "1165606205"
+      },
+      {
+        "Name": "國家生技園區F棟",
+        "Lat": 25.047656,
+        "Lon": 121.611301,
+        "Sequence": 2,
+        "StationID": "1165606206"
+      },
+      {
+        "Name": "捷運南港展覽館站(經貿二)",
+        "Lat": 25.056341,
+        "Lon": 121.616849,
+        "Sequence": 3,
+        "StationID": "1658"
+      },
+      {
+        "Name": "捷運南港站",
+        "Lat": 25.05226,
+        "Lon": 121.607245,
+        "Sequence": 4,
+        "StationID": "1699"
+      }
+    ]
+  },
+  {
+    "Route": "通勤16",
+    "SubRoute": "通勤16不經南港展覽館去程",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "捷運南港站",
+        "Lat": 25.05226,
+        "Lon": 121.607245,
+        "Sequence": 1,
+        "StationID": "1699"
+      },
+      {
+        "Name": "國家生技園區A/C棟",
+        "Lat": 25.048369,
+        "Lon": 121.612006,
+        "Sequence": 2,
+        "StationID": "1165606205"
+      },
+      {
+        "Name": "國家生技園區F棟",
+        "Lat": 25.047656,
+        "Lon": 121.611301,
+        "Sequence": 3,
+        "StationID": "1165606206"
+      }
+    ]
+  },
+  {
+    "Route": "通勤16",
+    "SubRoute": "通勤16不經南港展覽館返程",
+    "Direction": 1,
+    "Stops": [
+      {
+        "Name": "國家生技園區A/C棟",
+        "Lat": 25.048369,
+        "Lon": 121.612006,
+        "Sequence": 1,
+        "StationID": "1165606205"
+      },
+      {
+        "Name": "國家生技園區F棟",
+        "Lat": 25.047656,
+        "Lon": 121.611301,
+        "Sequence": 2,
+        "StationID": "1165606206"
+      },
+      {
+        "Name": "捷運南港站",
+        "Lat": 25.05226,
+        "Lon": 121.607245,
+        "Sequence": 3,
+        "StationID": "1699"
+      }
+    ]
+  }
+]

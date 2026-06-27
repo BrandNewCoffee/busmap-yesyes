@@ -1,0 +1,86 @@
+[
+  {
+    "Route": "貓空右線",
+    "SubRoute": "貓空右線",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "貓空纜車站",
+        "Lat": 24.9685,
+        "Lon": 121.5881,
+        "Sequence": 1,
+        "StationID": "2545"
+      },
+      {
+        "Name": "石坡坑",
+        "Lat": 24.97026083,
+        "Lon": 121.5882626,
+        "Sequence": 2,
+        "StationID": "1165610516"
+      },
+      {
+        "Name": "田寮橋",
+        "Lat": 24.97012,
+        "Lon": 121.58686,
+        "Sequence": 3,
+        "StationID": "2399"
+      },
+      {
+        "Name": "樟樹步道北口",
+        "Lat": 24.968542,
+        "Lon": 121.583422,
+        "Sequence": 4,
+        "StationID": "1165606701"
+      },
+      {
+        "Name": "樟山寺",
+        "Lat": 24.97112,
+        "Lon": 121.58003,
+        "Sequence": 5,
+        "StationID": "2527"
+      },
+      {
+        "Name": "望遠亭(老泉里)",
+        "Lat": 24.970101,
+        "Lon": 121.57883,
+        "Sequence": 6,
+        "StationID": "1165603229"
+      },
+      {
+        "Name": "杏花林(老泉里)",
+        "Lat": 24.9691,
+        "Lon": 121.57678,
+        "Sequence": 7,
+        "StationID": "2407"
+      },
+      {
+        "Name": "樟樹步道南口",
+        "Lat": 24.969425,
+        "Lon": 121.580321,
+        "Sequence": 8,
+        "StationID": "2432"
+      },
+      {
+        "Name": "瓦厝",
+        "Lat": 24.967886,
+        "Lon": 121.580639,
+        "Sequence": 9,
+        "StationID": "1165609285"
+      },
+      {
+        "Name": "樟湖步道",
+        "Lat": 24.96589,
+        "Lon": 121.58306,
+        "Sequence": 10,
+        "StationID": "2530"
+      },
+      {
+        "Name": "貓空纜車站",
+        "Lat": 24.9685,
+        "Lon": 121.5881,
+        "Sequence": 11,
+        "StationID": "2545"
+      }
+    ]
+  }
+]

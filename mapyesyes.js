@@ -6,19 +6,25 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 const colorChart=["red","blue"];
-currentLine=null
-//start=null
-const routeList=["234","南環幹線","205","618","民權幹線","紅25","藍36","南京幹線","內科通勤專車22","紅33","2","536","303","303區","542","669","小7"];
-currentStops=L.layerGroup().addTo(map)
+const dirChart=["去程","回程"];
+let routeList=[];
+let currentLine=null;
+//start=null;
+let currentStops=L.layerGroup().addTo(map);
 const dataCache=[];
 
-routeList.forEach(route=>{
-    const btn=document.createElement("button");
-    btn.textContent=route;
-    btn.classList.add("button");
-    btn.addEventListener("click",()=>showSubMenu(route));
-    routeMenu.appendChild(btn)}
-)
+async function getRouteList(){
+    const res=await fetch("https://BrandNewCoffee.github.io/bus-data/data/stops/stops_234.json");
+    const data=await res.json();
+    return data;
+}
+
+async function init(){
+    routeList=await getRouteList();
+    routeList.forEach(r=>showMenu(r,"routeList"));    
+}
+
+init();
 
 async function getData(r){
     if(dataCache[r]){
@@ -42,22 +48,64 @@ async function getData(r){
 }
 
 async function yesyes(){
+    console.log("yesyes");
+}
 
+function search(){
+    let content=document.getElementById("searchInput").value;
+    const srchList=document.getElementById("searchRouteList");
+    srchList.innerHTML="";
+    routeList.forEach(route=>{
+        if(route.includes(content)){showMenu(route,"searchRouteList")}
+    })
+    const menu=document.getElementById("routeMenu");
+    const subMenu=document.getElementById("subRouteMenu");
+    const srchMenu=document.getElementById("searchRouteMenu");
+    menu.style.display="none";
+    subMenu.style.display="none";
+    srchMenu.style.display="flex";
+}
+
+function showMenu(r,menu){
+    const list=document.getElementById(menu);
+    const btn=document.createElement("button");
+    btn.textContent=r;
+    btn.classList.add("routeBtn");
+    btn.addEventListener("click",()=>showSubMenu(r));
+    list.appendChild(btn);
 }
 
 async function showSubMenu(r){
-    const data=await getData(r);
-    let menu=document.querySelector("#shapeMenu");
-    menu.innerHTML="";
-    for(const s in data){  //r、s、d為key，並非資料本身(value)
+    const data=await getData(r); //data=dataCache[r]
+    const subList=document.getElementById("subRouteList");
+    subList.innerHTML="";
+    for(const s in data){  //提示:r、s、d為key，並非資料本身(value)
+        const subRow=document.createElement("div");
+        subRow.classList.add("subRouteRow");
         for(const d in data[s]){
             const btn=document.createElement("button");
-            btn.textContent=`${s}(${d})`;
-            btn.classList.add("button");
+            btn.textContent=s;
+            btn.classList.add("routeBtn");
             btn.addEventListener("click",()=>showRoute(r,s,d));
-            shapeMenu.appendChild(btn);
+            subRow.appendChild(btn);
         }
+        subList.appendChild(subRow);
     }
+    const menu=document.getElementById("routeMenu");
+    const subMenu=document.getElementById("subRouteMenu");
+    const srchMenu=document.getElementById("searchRouteMenu");
+    menu.style.display="none";
+    subMenu.style.display="flex";
+    srchMenu.style.display="none";
+}
+
+function backToMenu(){
+    const menu=document.getElementById("routeMenu");
+    const subMenu=document.getElementById("subRouteMenu");
+    const srchMenu=document.getElementById("searchRouteMenu");
+    menu.style.display="flex";
+    subMenu.style.display="none";
+    srchMenu.style.display="none";
 }
 
 function showRoute(r,s,d){
@@ -82,6 +130,6 @@ async function shape(r,s,d){
     currentColor=colorChart[d];
     currentLine=L.polyline(data.Geometry,{color:currentColor}).addTo(map);
     // if(start){map.removeLayer(start)};
-    // let geo=subRoute.Geometry
+    // let geo=data.Geometry
     // start=L.marker(geo[0]).addTo(map).bindPopup("起點");
 };

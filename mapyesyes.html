@@ -7,7 +7,7 @@
 	
 	<title>mapyesyes</title>
 	
-	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+	<!-- <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" /> -->
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -21,19 +21,33 @@
 </head>
 <body>
 
-	<!-- <div id="mainSection" >
-		<div id="sidebar" onclick="sidebar_expand();">三</div> -->
+	<div id="mainSection" >
+		<!-- <div id="sidebar" onclick="sidebar_expand();">側欄</div> -->
 		<div id="map"></div>
-	<!-- </div> -->
+	</div>
 
+	<div id="search">
+		<div id="searchBar">
+			<input type="search" id="searchInput" placeholder="路線" onclick="">
+			<button id="searchBtn" onclick="search();">搜尋</button>
+		</div>
+		<div id="routeMenu">
+			<div class="routeMenuHeader">路線</div>
+			<div id="routeList"></div>
+		</div>
+		<div id="subRouteMenu">
+			<div class="previousPageBtn" onclick="backToMenu();">&lt;</div>
+			<div class="routeMenuHeader">副線</div>
+			<div id="subRouteHeader"><div>去程</div><div>回程</div></div>
+			<div id="subRouteList"></div>
+		</div>
+		<div id="searchRouteMenu">
+			<div class="previousPageBtn" onclick="backToMenu();">&lt;</div>
+			<div class="routeMenuHeader">路線yesys</div>
+			<div id="searchRouteList"></div>
+		</div>
+	</div>
 
-	<input type="search" id="search" placeholder="路線" onclick=""> 
-	<div id="routeMenu"></div>
-	<br/>
-	<div id="shapeMenu"></div>
-	<br/>
-	<div id="stopsMenu"></div>
-	
 	<script src="mapyesyes.js"></script>
 </body>
 </html>

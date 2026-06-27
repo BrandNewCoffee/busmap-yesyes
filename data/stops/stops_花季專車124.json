@@ -1,0 +1,177 @@
+[
+  {
+    "Route": "花季專車124",
+    "SubRoute": "花季專車124",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "陽明山總站",
+        "Lat": 25.15148,
+        "Lon": 121.54603,
+        "Sequence": 1,
+        "StationID": "852"
+      },
+      {
+        "Name": "陽明山國家公園管理處",
+        "Lat": 25.15532,
+        "Lon": 121.54608,
+        "Sequence": 2,
+        "StationID": "855"
+      },
+      {
+        "Name": "童軍站",
+        "Lat": 25.15837624,
+        "Lon": 121.5468579,
+        "Sequence": 3,
+        "StationID": "833"
+      },
+      {
+        "Name": "磺仔外",
+        "Lat": 25.16067,
+        "Lon": 121.54528,
+        "Sequence": 4,
+        "StationID": "693"
+      },
+      {
+        "Name": "氣象台",
+        "Lat": 25.16172,
+        "Lon": 121.54429,
+        "Sequence": 5,
+        "StationID": "14488"
+      },
+      {
+        "Name": "陽明書屋",
+        "Lat": 25.16310508,
+        "Lon": 121.5448478,
+        "Sequence": 6,
+        "StationID": "82"
+      },
+      {
+        "Name": "竹子湖派出所",
+        "Lat": 25.16727,
+        "Lon": 121.5404,
+        "Sequence": 7,
+        "StationID": "168"
+      },
+      {
+        "Name": "頂湖山",
+        "Lat": 25.17329468,
+        "Lon": 121.540701,
+        "Sequence": 8,
+        "StationID": "1165603272"
+      },
+      {
+        "Name": "游園站",
+        "Lat": 25.17508,
+        "Lon": 121.541178,
+        "Sequence": 9,
+        "StationID": "832"
+      },
+      {
+        "Name": "百拉卡公路入口",
+        "Lat": 25.179701,
+        "Lon": 121.54296,
+        "Sequence": 10,
+        "StationID": "50524"
+      },
+      {
+        "Name": "小觀音棧",
+        "Lat": 25.17999562,
+        "Lon": 121.5465214,
+        "Sequence": 11,
+        "StationID": "20313"
+      },
+      {
+        "Name": "小油坑服務站",
+        "Lat": 25.176902,
+        "Lon": 121.547521,
+        "Sequence": 12,
+        "StationID": "1165606686"
+      }
+    ]
+  },
+  {
+    "Route": "花季專車124",
+    "SubRoute": "花季專車124",
+    "Direction": 1,
+    "Stops": [
+      {
+        "Name": "小觀音棧",
+        "Lat": 25.1801683,
+        "Lon": 121.5466289,
+        "Sequence": 1,
+        "StationID": "1165603264"
+      },
+      {
+        "Name": "百拉卡公路入口",
+        "Lat": 25.1795856835657,
+        "Lon": 121.542890134918,
+        "Sequence": 2,
+        "StationID": "1165603263"
+      },
+      {
+        "Name": "頂湖山",
+        "Lat": 25.1732,
+        "Lon": 121.54048,
+        "Sequence": 3,
+        "StationID": "824"
+      },
+      {
+        "Name": "竹子湖派出所",
+        "Lat": 25.16722632,
+        "Lon": 121.5402309,
+        "Sequence": 4,
+        "StationID": "60112"
+      },
+      {
+        "Name": "水雲澗",
+        "Lat": 25.1644,
+        "Lon": 121.54405,
+        "Sequence": 5,
+        "StationID": "1001458"
+      },
+      {
+        "Name": "陽明書屋",
+        "Lat": 25.16297,
+        "Lon": 121.54468,
+        "Sequence": 6,
+        "StationID": "5022"
+      },
+      {
+        "Name": "氣象台",
+        "Lat": 25.16177,
+        "Lon": 121.54402,
+        "Sequence": 7,
+        "StationID": "60108"
+      },
+      {
+        "Name": "磺仔外",
+        "Lat": 25.16052387,
+        "Lon": 121.5452729,
+        "Sequence": 8,
+        "StationID": "1165604666"
+      },
+      {
+        "Name": "童軍站",
+        "Lat": 25.15827746,
+        "Lon": 121.5467266,
+        "Sequence": 9,
+        "StationID": "20367"
+      },
+      {
+        "Name": "陽明山國家公園管理處",
+        "Lat": 25.1552,
+        "Lon": 121.54612,
+        "Sequence": 10,
+        "StationID": "816"
+      },
+      {
+        "Name": "陽明山總站",
+        "Lat": 25.15148,
+        "Lon": 121.54603,
+        "Sequence": 11,
+        "StationID": "852"
+      }
+    ]
+  }
+]

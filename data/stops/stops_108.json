@@ -1,0 +1,205 @@
+[
+  {
+    "Route": "108",
+    "SubRoute": "108",
+    "Direction": 0,
+    "Stops": [
+      {
+        "Name": "陽明山總站",
+        "Lat": 25.15148,
+        "Lon": 121.54603,
+        "Sequence": 1,
+        "StationID": "852"
+      },
+      {
+        "Name": "陽明山國家公園管理處",
+        "Lat": 25.15532,
+        "Lon": 121.54608,
+        "Sequence": 2,
+        "StationID": "855"
+      },
+      {
+        "Name": "童軍站",
+        "Lat": 25.15831856,
+        "Lon": 121.5468387,
+        "Sequence": 3,
+        "StationID": "833"
+      },
+      {
+        "Name": "磺仔外",
+        "Lat": 25.16067,
+        "Lon": 121.54528,
+        "Sequence": 4,
+        "StationID": "693"
+      },
+      {
+        "Name": "氣象台",
+        "Lat": 25.16172,
+        "Lon": 121.54429,
+        "Sequence": 5,
+        "StationID": "14488"
+      },
+      {
+        "Name": "陽明書屋",
+        "Lat": 25.16310508,
+        "Lon": 121.5448478,
+        "Sequence": 6,
+        "StationID": "82"
+      },
+      {
+        "Name": "竹子湖派出所",
+        "Lat": 25.16727,
+        "Lon": 121.5404,
+        "Sequence": 7,
+        "StationID": "168"
+      },
+      {
+        "Name": "頂湖山",
+        "Lat": 25.17329468,
+        "Lon": 121.540701,
+        "Sequence": 8,
+        "StationID": "1165603272"
+      },
+      {
+        "Name": "游園站",
+        "Lat": 25.17508,
+        "Lon": 121.541178,
+        "Sequence": 9,
+        "StationID": "832"
+      },
+      {
+        "Name": "百拉卡公路入口",
+        "Lat": 25.179701,
+        "Lon": 121.54296,
+        "Sequence": 10,
+        "StationID": "50524"
+      },
+      {
+        "Name": "鞍部",
+        "Lat": 25.18278,
+        "Lon": 121.52994,
+        "Sequence": 11,
+        "StationID": "931"
+      },
+      {
+        "Name": "二子坪",
+        "Lat": 25.18604,
+        "Lon": 121.52552,
+        "Sequence": 12,
+        "StationID": "4681"
+      },
+      {
+        "Name": "小觀音棧",
+        "Lat": 25.17999562,
+        "Lon": 121.5465214,
+        "Sequence": 13,
+        "StationID": "20313"
+      },
+      {
+        "Name": "小油坑服務站",
+        "Lat": 25.176902,
+        "Lon": 121.547521,
+        "Sequence": 14,
+        "StationID": "1165606686"
+      },
+      {
+        "Name": "中湖",
+        "Lat": 25.1778013229445,
+        "Lon": 121.556672604008,
+        "Sequence": 15,
+        "StationID": "621"
+      },
+      {
+        "Name": "夢幻湖",
+        "Lat": 25.17127,
+        "Lon": 121.56002,
+        "Sequence": 16,
+        "StationID": "4842"
+      },
+      {
+        "Name": "夢幻湖停車場",
+        "Lat": 25.1691087,
+        "Lon": 121.5624343,
+        "Sequence": 17,
+        "StationID": "4843"
+      },
+      {
+        "Name": "冷水坑",
+        "Lat": 25.16752826,
+        "Lon": 121.5631306,
+        "Sequence": 18,
+        "StationID": "702"
+      },
+      {
+        "Name": "擎天崗",
+        "Lat": 25.16716,
+        "Lon": 121.57388,
+        "Sequence": 19,
+        "StationID": "936"
+      },
+      {
+        "Name": "冷水坑",
+        "Lat": 25.1677213409641,
+        "Lon": 121.563178869925,
+        "Sequence": 20,
+        "StationID": "1001267"
+      }
+    ]
+  },
+  {
+    "Route": "108",
+    "SubRoute": "108",
+    "Direction": 1,
+    "Stops": [
+      {
+        "Name": "冷水坑服務站",
+        "Lat": 25.165839,
+        "Lon": 121.563844,
+        "Sequence": 1,
+        "StationID": "1165603336"
+      },
+      {
+        "Name": "松園",
+        "Lat": 25.15836,
+        "Lon": 121.565184,
+        "Sequence": 2,
+        "StationID": "60141"
+      },
+      {
+        "Name": "菁山遊憩區一",
+        "Lat": 25.15165,
+        "Lon": 121.56106,
+        "Sequence": 3,
+        "StationID": "883"
+      },
+      {
+        "Name": "菁山遊憩區",
+        "Lat": 25.151715,
+        "Lon": 121.558374,
+        "Sequence": 4,
+        "StationID": "1165603337"
+      },
+      {
+        "Name": "中山樓",
+        "Lat": 25.151372,
+        "Lon": 121.549636,
+        "Sequence": 5,
+        "StationID": "611"
+      },
+      {
+        "Name": "陽明山",
+        "Lat": 25.15249728,
+        "Lon": 121.5474217,
+        "Sequence": 6,
+        "StationID": "14426"
+      },
+      {
+        "Name": "陽明山總站",
+        "Lat": 25.15148,
+        "Lon": 121.54603,
+        "Sequence": 7,
+        "StationID": "852"
+      }
+    ]
+  }
+]

@@ -1,3 +1,6 @@
+*{
+    box-sizing:border-box;
+}
 html, body {
     height: 100%;
     margin: 0;
@@ -8,30 +11,25 @@ html, body {
     max-width: 100%;
     max-height: 100%;
 }
-.button{
+.routeBtn{
     cursor:pointer;
-    /*position:absolute;*/
+    width:100%;
+    min-height:20px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
-#search {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    z-index: 1000;
-    width: 100px;
 
-    padding: 8px;
-    font-size: 16px;
-    background-color:white;
-}
 #mainSection{
     height:100%;
     display:flex;
 }
-#map{
-    width:100%;
-    height:60%;
-}
+    #map{
+        /* width:100%; */
+        height:100%;
+        flex:auto;
+    }
 #sidebar{
     background-color:royalblue;
     width:5%;
@@ -39,3 +37,80 @@ html, body {
     color:white;
     font-size:25px;
 }
+#search{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1000; /*圖層*/
+    width:15%;
+    border:2px solid black;
+    background-color:#efefef;
+    font-size:15px;
+}
+#search *{
+    font-size:15px;
+}
+    #searchBar{
+        display:flex;
+        height:40px;
+    }
+        #searchInput {
+            width: 75%;
+            padding: 8px;
+        }
+        #searchBtn{
+            /* background-color: grey; */
+            width:25%;
+            padding:0px;
+        }
+    #routeMenu{
+        display:flex;
+        flex-direction:column;
+        height:175px;
+        text-align:center;
+    }
+        .routeMenuHeader{
+        background-color:darkGrey;
+        height:25px;
+        width:100%;
+        border:1px solid black;
+        flex-shrink:0;
+        }
+        #routeList,#subRouteList,#searchRouteList{
+            overflow-y:auto;
+        }
+    #subRouteMenu{
+        display:none;
+        flex-direction:column;
+        min-height:0px;
+        text-align:center;
+    }
+        #subRouteHeader{
+            display:flex;
+        }
+        #subRouteHeader div{
+            background-color:darkGrey;
+            height:25px;
+            width:100%;
+            border:1px solid black;
+        }
+        .subRouteRow{
+            display:flex;
+        }
+    .previousPageBtn{
+        position:absolute;
+        width:25px;
+        height:25px;
+        float:left;     
+        font-size:20px;
+        font-weight:bold;
+        background-color:lightgray;
+        border:1px solid black;
+        cursor:pointer;
+    }
+    #searchRouteMenu{
+        display:none;
+        flex-direction:column;
+        min-height:0px;
+        text-align:center;
+    }

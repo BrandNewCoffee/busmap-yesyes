@@ -42,7 +42,7 @@ html, body {
     top: 20px;
     right: 20px;
     z-index: 1000; /*圖層*/
-    width:15%;
+    width:125px;
     border:2px solid black;
     background-color:#efefef;
     font-size:15px;
